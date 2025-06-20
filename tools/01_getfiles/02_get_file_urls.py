@@ -14,38 +14,43 @@ import csv
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse, parse_qs
+from typing import Tuple, List
 
 # --------------------------- 유틸 --------------------------- #
-def load_post_urls(csv_path: str) -> list[str]:
+
+def load_post_urls(csv_path: str) -> List[str]:
     """01_post_urls_cache.csv 에서 게시물 URL 리스트를 읽어 반환"""
     with open(csv_path, newline='', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         return [row["url"] for row in reader]
 
-def extract_meta(soup: BeautifulSoup) -> tuple[str, str]:
+
+def extract_meta(soup: BeautifulSoup) -> Tuple[str, str, str]:
     """
     게시물 제목에서
+      · title : 전체 제목 문자열
       · year  : 20XX (없으면 'unknown')
       · phase : 1차 / 2차 (다양한 표기 허용, 없으면 'unknown')
-    를 추출해 (year, phase) 로 반환
+    를 추출해 (year, phase, title) 로 반환
     """
     # 제목 위치: <div class="board-title"><div class="subject"><h3>...</h3></div></div>
     title_tag = soup.select_one("div.board-title div.subject h3")
-    text = title_tag.get_text(strip=True) if title_tag else ""
+    title = title_tag.get_text(strip=True) if title_tag else ""
 
     # 연도: 2000~2099
-    m_year = re.search(r"(20\d{2})", text)
+    m_year = re.search(r"(20\d{2})", title)
     year = m_year.group(1) if m_year else "unknown"
 
     # 시험구분: 1차·2차 / 제1차·제2차 / 제1시험·제2시험
-    m_phase = re.search(r"(?:제)?\s*(1차|2차|1시험|2시험)", text)
+    m_phase = re.search(r"(?:제)?\s*(1차|2차|1시험|2시험)", title)
     if m_phase:
         raw = m_phase.group(1)
         phase = "1차" if raw.startswith("1") else "2차"
     else:
         phase = "unknown"
 
-    return year, phase
+    return year, phase, title
+
 
 def build_file_url(atch_id: str, bbs_id: str, file_sn: int) -> str:
     """첨부파일 download URL 규칙화"""
@@ -55,7 +60,8 @@ def build_file_url(atch_id: str, bbs_id: str, file_sn: int) -> str:
     )
 
 # ------------------------- 메인 로직 ------------------------ #
-def get_file_urls(post_urls: list[str], max_filesn: int = 10):
+
+def get_file_urls(post_urls: List[str], max_filesn: int = 10):
     session = requests.Session()
     session.headers.update({"User-Agent": "Mozilla/5.0"})
 
@@ -63,18 +69,18 @@ def get_file_urls(post_urls: list[str], max_filesn: int = 10):
     pdf_urls = []
 
     for post_url in post_urls:
-        print(f"⏳ 게시물 파싱: {post_url}")
         try:
             resp = session.get(post_url, timeout=10)
             resp.raise_for_status()
         except Exception as e:
-            print(f"   ⛔ 요청 실패: {e}")
+            print(f"   ⛔ 요청 실패: {e} — {post_url}")
             continue
 
         soup = BeautifulSoup(resp.text, "lxml")
 
         # (1) 메타정보
-        year, phase = extract_meta(soup)
+        year, phase, title = extract_meta(soup)
+        print(f"⏳ [{title or '제목 없음'}] — {post_url}")
 
         # (2) 첫 번째 첨부파일 링크에서 atchFileId / bbsId 확보
         a_file = soup.find("a", href=lambda h: h and "fileDown.do" in h)
@@ -101,6 +107,7 @@ def get_file_urls(post_urls: list[str], max_filesn: int = 10):
             all_records.append(
                 {
                     "post_url": post_url,
+                    "title": title,
                     "year": year,
                     "phase": phase,
                     "atchFileId": atch_id,
@@ -129,6 +136,7 @@ if __name__ == "__main__":
     with open(files_csv, "w", newline="", encoding="utf-8") as f:
         fieldnames = [
             "post_url",
+            "title",
             "year",
             "phase",
             "atchFileId",
