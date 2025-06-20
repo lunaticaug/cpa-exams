@@ -6,7 +6,6 @@
 
 _Note._
 
-![alt text](image.png)
 
 # workflow
 
