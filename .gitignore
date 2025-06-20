@@ -19,6 +19,7 @@ Python/250505 CPA Audit/pdfs/
 **/download/**
 **/wip/**
 *_cache*
+**/_temp/**
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
