@@ -1,3 +1,23 @@
+# custom
+2018-10-exam-fm-sample-questions.pdf
+2018-10-exam-fm-sample-solutions.pdf
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+*_Private.md
+prompts/STT-to-script/Dictionary/glossary.json
+prompts/STT-to-script/Dictionary/snippet.json
+# Python/250505 CPA Audit 하위의 pdfs 폴더 무시
+Python/250505 CPA Audit/pdfs/
+# Ignore private directories and files
+**/private/**
+**/secrets/**
+**/fulldata/**
+**/wip/**
+*_cache*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
