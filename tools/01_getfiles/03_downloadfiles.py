@@ -1,7 +1,7 @@
 """
 Process 3 : 첨부파일 일괄 다운로드 (download 폴더)
 ------------------------------------------------
-입력 : 02_file_urls.csv
+입력 : 02_file_urls_cache.csv
 저장 : <script_dir>/download/
           {year}_{phase}_{원본파일명}.*
 """
@@ -11,7 +11,7 @@ import csv
 import requests
 from urllib.parse import urlparse, unquote
 
-CSV_NAME   = "02_file_urls.csv"   # Process 2 결과
+CSV_NAME   = "02_file_urls_cache.csv"   # Process 2 결과
 TIMEOUT    = 15                  # HTTP 타임아웃(sec)
 CHUNK_SIZE = 8192                # 스트리밍 chunk 크기
 
@@ -36,7 +36,7 @@ def download_all(csv_path: str, download_dir: str):
                 resp = session.get(url, stream=True, timeout=TIMEOUT)
                 resp.raise_for_status()
             except Exception as err:
-                print(f"[FAIL] {url} ▶ {err}")
+                print(f"⚠️ [FAIL] {url} ▶ {err}")
                 continue
 
             # 원본 파일명
@@ -52,7 +52,7 @@ def download_all(csv_path: str, download_dir: str):
             save_path = os.path.join(download_dir, save_name)
 
             if os.path.exists(save_path):
-                print(f"[SKIP] 이미 존재: {save_name}")
+                print(f"😓 [SKIP] 이미 존재: {save_name}")
                 continue
 
             # 저장
@@ -61,9 +61,9 @@ def download_all(csv_path: str, download_dir: str):
                     for chunk in resp.iter_content(CHUNK_SIZE):
                         if chunk:
                             out.write(chunk)
-                print(f"[OK]   {save_name}")
+                print(f"✅ [OK]   {save_name}")
             except Exception as err:
-                print(f"[FAIL] 저장 오류 {save_name} ▶ {err}")
+                print(f"⚠️ [FAIL] 저장 오류 {save_name} ▶ {err}")
 
 if __name__ == "__main__":
     script_dir   = os.path.dirname(os.path.abspath(__file__))
@@ -71,6 +71,6 @@ if __name__ == "__main__":
     download_dir = os.path.join(script_dir, "download")   # ★ 저장 폴더
 
     if not os.path.isfile(csv_path):
-        print(f"'{CSV_NAME}'가 없습니다. 먼저 Process 2를 실행하세요.")
+        print(f"⚠️ '{CSV_NAME}'가 없습니다. 먼저 Process 2를 실행하세요.")
     else:
         download_all(csv_path, download_dir)
