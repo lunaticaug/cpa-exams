@@ -1,5 +1,5 @@
 ---
-### main prompt ver 2.00 by Gemini & hmcls
+### main prompt ver 2.01 by Gemini & hmcls
 ---
 
 # ROLE & GOAL
@@ -42,6 +42,16 @@
 1.  **JSON Block**: 시험지의 **모든 문제**에 대한 분석 메타데이터를 담은 **단일 JSON 객체**를 생성한다.
     * JSON 객체는 `metadata_log` 라는 키(key)를 가져야 하며, 그 값(value)은 각 문제의 메타데이터를 담은 객체들의 배열(array)이어야 한다.
     * 각 문제의 메타데이터 객체는 `question_id`, `tags`, `difficulty` 키를 포함해야 한다.
+
+        `question_id`
+        1r-{subject}-{year}-{qnum},
+        2r-{subject}-{year}-{[문제n]}-{(n)}-...
+
+        `tag` 최소 5개 중요키워드 포함
+
+// json 객체에서 subject는 영어로 작성한다.
+// 세법 tax, 재무관리 financial-management, 회계감사 audit, 원가 cost-management, 재무회계 회계학 accounting, 상법 기업법 claw, 경영학 management, 경제학 economics
+                    
 
 # FINAL INSTRUCTION
 이제 아래에 시험지 텍스트를 입력할 테니, 위의 규칙을 엄격하게 준수하여 **아래에 명시된 두 개의 코드 블록을 순서대로 출력**해라. 두 코드 블록 사이에는 어떠한 추가 텍스트나 설명도 포함해서는 안 된다.
