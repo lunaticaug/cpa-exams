@@ -1,0 +1,204 @@
+{
+  "metadata_log": [
+    {
+      "question_id": "1r-claw-2024-1",
+      "tags": ["상업총칙", "지배인", "대리권"],
+      "difficulty": "low"
+    },
+    {
+      "question_id": "1r-claw-2024-2",
+      "tags": ["상업총칙", "상업사용인", "경업금지의무"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-3",
+      "tags": ["상업총칙", "영업양도", "상호속용"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-4",
+      "tags": ["상행위", "상인간매매", "하자담보책임"],
+      "difficulty": "high"
+    },
+    {
+      "question_id": "1r-claw-2024-5",
+      "tags": ["회사법", "합자조합", "조합원책임"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-6",
+      "tags": ["상행위", "운송주선업", "운송주선인"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-7",
+      "tags": ["상행위", "운송업", "여객운송"],
+      "difficulty": "low"
+    },
+    {
+      "question_id": "1r-claw-2024-8",
+      "tags": ["상행위", "창고업", "창고증권"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-9",
+      "tags": ["회사법", "합명회사", "사원"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-10",
+      "tags": ["회사법", "주식회사", "설립", "모집설립"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-11",
+      "tags": ["회사법", "주식회사", "주식", "상환주식", "전환주식"],
+      "difficulty": "high"
+    },
+    {
+      "question_id": "1r-claw-2024-12",
+      "tags": ["회사법", "주식회사", "주권", "주권불소지"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-13",
+      "tags": ["회사법", "주식회사", "주식양도", "정관제한"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-14",
+      "tags": ["회사법", "주식회사", "주식", "주식분할"],
+      "difficulty": "low"
+    },
+    {
+      "question_id": "1r-claw-2024-15",
+      "tags": ["회사법", "주식회사", "주권", "기재사항"],
+      "difficulty": "low"
+    },
+    {
+      "question_id": "1r-claw-2024-16",
+      "tags": ["회사법", "주식회사", "지배주주", "소수주주매도청구권"],
+      "difficulty": "high"
+    },
+    {
+      "question_id": "1r-claw-2024-17",
+      "tags": ["회사법", "주식회사", "주주총회", "소집절차"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-18",
+      "tags": ["회사법", "주식회사", "주주총회", "의결권"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-19",
+      "tags": ["회사법", "주식회사", "주주권", "회계장부열람청구권"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-20",
+      "tags": ["회사법", "주식회사", "주주총회", "결의하자소송"],
+      "difficulty": "high"
+    },
+    {
+      "question_id": "1r-claw-2024-21",
+      "tags": ["회사법", "주식회사", "이사", "선임", "해임"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-22",
+      "tags": ["회사법", "주식회사", "합병", "간이합병", "소규모합병"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-23",
+      "tags": ["회사법", "주식회사", "대표소송"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-24",
+      "tags": ["회사법", "주식회사", "감사", "감사위원회"],
+      "difficulty": "high"
+    },
+    {
+      "question_id": "1r-claw-2024-25",
+      "tags": ["회사법", "주식회사", "자본", "신주발행"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-26",
+      "tags": ["회사법", "유한책임회사"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-27",
+      "tags": ["회사법", "주식회사", "이익배당"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-28",
+      "tags": ["회사법", "주식회사", "해산"],
+      "difficulty": "low"
+    },
+    {
+      "question_id": "1r-claw-2024-29",
+      "tags": ["회사법", "주식회사", "사채", "전환사채"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-30",
+      "tags": ["회사법", "주식회사", "자본", "액면미달발행"],
+      "difficulty": "high"
+    },
+    {
+      "question_id": "1r-claw-2024-31",
+      "tags": ["회사법", "상장회사특례"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-32",
+      "tags": ["회사법", "유한회사", "사원총회"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-33",
+      "tags": ["어음수표법", "환어음", "어음요건"],
+      "difficulty": "low"
+    },
+    {
+      "question_id": "1r-claw-2024-34",
+      "tags": ["어음수표법", "환어음", "수표", "이자"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-35",
+      "tags": ["어음수표법", "발행인책임"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-36",
+      "tags": ["어음수표법", "배서"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-37",
+      "tags": ["어음수표법", "배서", "기한후배서"],
+      "difficulty": "high"
+    },
+    {
+      "question_id": "1r-claw-2024-38",
+      "tags": ["어음수표법", "환어음", "인수"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-39",
+      "tags": ["어음수표법", "환어음", "수표", "지급"],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-claw-2024-40",
+      "tags": ["어음수표법", "환어음", "상환청구권"],
+      "difficulty": "medium"
+    }
+  ]
+}
