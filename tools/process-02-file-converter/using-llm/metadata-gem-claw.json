@@ -2,203 +2,203 @@
   "metadata_log": [
     {
       "question_id": "1r-claw-2024-1",
-      "tags": ["상업총칙", "지배인", "대리권"],
-      "difficulty": "low"
+      "tags": ["지배인", "대리권", "표현지배인", "공동지배인", "선임등기"],
+      "difficulty": "하"
     },
     {
       "question_id": "1r-claw-2024-2",
-      "tags": ["상업총칙", "상업사용인", "경업금지의무"],
-      "difficulty": "medium"
+      "tags": ["상업사용인", "경업금지의무", "개입권", "손해배상청구", "소멸시효"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-3",
-      "tags": ["상업총칙", "영업양도", "상호속용"],
-      "difficulty": "medium"
+      "tags": ["영업양도", "상호계속사용", "채무인수", "양도인의 책임", "경업금지"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-4",
-      "tags": ["상행위", "상인간매매", "하자담보책임"],
-      "difficulty": "high"
+      "tags": ["상인간 매매", "확정기매매", "하자담보책임", "목적물 검사", "공탁"],
+      "difficulty": "상"
     },
     {
       "question_id": "1r-claw-2024-5",
-      "tags": ["회사법", "합자조합", "조합원책임"],
-      "difficulty": "medium"
+      "tags": ["합자조합", "유한책임조합원", "업무집행조합원", "지분양도", "퇴사"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-6",
-      "tags": ["상행위", "운송주선업", "운송주선인"],
-      "difficulty": "medium"
+      "tags": ["운송주선인", "화물상환증", "개입권", "유치권", "순차운송주선"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-7",
-      "tags": ["상행위", "운송업", "여객운송"],
-      "difficulty": "low"
+      "tags": ["여객운송", "수하물", "운송인 책임", "손해배상", "면책"],
+      "difficulty": "하"
     },
     {
       "question_id": "1r-claw-2024-8",
-      "tags": ["상행위", "창고업", "창고증권"],
-      "difficulty": "medium"
+      "tags": ["창고업자", "창고증권", "임치물", "무상수치인", "소멸시효"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-9",
-      "tags": ["회사법", "합명회사", "사원"],
-      "difficulty": "medium"
+      "tags": ["합명회사", "업무집행사원", "공동대표", "설립무효의 소", "사원 퇴사"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-10",
-      "tags": ["회사법", "주식회사", "설립", "모집설립"],
-      "difficulty": "medium"
+      "tags": ["모집설립", "주식청약서", "발기인", "창립총회", "실권절차"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-11",
-      "tags": ["회사법", "주식회사", "주식", "상환주식", "전환주식"],
-      "difficulty": "high"
+      "tags": ["종류주식", "상환주식", "전환주식", "비상장회사", "자본금"],
+      "difficulty": "상"
     },
     {
       "question_id": "1r-claw-2024-12",
-      "tags": ["회사법", "주식회사", "주권", "주권불소지"],
-      "difficulty": "medium"
+      "tags": ["주권", "주권불소지", "명의개서대리인", "주식양도", "선의취득"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-13",
-      "tags": ["회사법", "주식회사", "주식양도", "정관제한"],
-      "difficulty": "medium"
+      "tags": ["주식양도제한", "이사회 승인", "양도승인청구", "정관", "소규모회사"],
+      "difficulty": "상"
     },
     {
       "question_id": "1r-claw-2024-14",
-      "tags": ["회사법", "주식회사", "주식", "주식분할"],
-      "difficulty": "low"
+      "tags": ["주식분할", "주주총회 특별결의", "주권제출", "액면금액", "자본금"],
+      "difficulty": "하"
     },
     {
       "question_id": "1r-claw-2024-15",
-      "tags": ["회사법", "주식회사", "주권", "기재사항"],
-      "difficulty": "low"
+      "tags": ["주권", "기재사항", "액면주식", "무액면주식", "발행연월일"],
+      "difficulty": "하"
     },
     {
       "question_id": "1r-claw-2024-16",
-      "tags": ["회사법", "주식회사", "지배주주", "소수주주매도청구권"],
-      "difficulty": "high"
+      "tags": ["지배주주", "매도청구권", "모자회사", "소수주주", "주식매매가액"],
+      "difficulty": "상"
     },
     {
       "question_id": "1r-claw-2024-17",
-      "tags": ["회사법", "주식회사", "주주총회", "소집절차"],
-      "difficulty": "medium"
+      "tags": ["주주총회", "소집통지", "소집절차생략", "소규모회사", "서면결의"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-18",
-      "tags": ["회사법", "주식회사", "주주총회", "의결권"],
-      "difficulty": "medium"
+      "tags": ["의결권", "특별이해관계인", "불통일행사", "서면투표", "전자투표"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-19",
-      "tags": ["회사법", "주식회사", "주주권", "회계장부열람청구권"],
-      "difficulty": "medium"
+      "tags": ["회계장부열람권", "소수주주권", "청구목적", "입증책임", "비상장회사"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-20",
-      "tags": ["회사법", "주식회사", "주주총회", "결의하자소송"],
-      "difficulty": "high"
+      "tags": ["주주총회결의", "결의취소의 소", "결의부존재확인의 소", "제소기간", "담보제공명령"],
+      "difficulty": "상"
     },
     {
       "question_id": "1r-claw-2024-21",
-      "tags": ["회사법", "주식회사", "이사", "선임", "해임"],
-      "difficulty": "medium"
+      "tags": ["이사", "선임", "해임", "임기", "일시이사"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-22",
-      "tags": ["회사법", "주식회사", "합병", "간이합병", "소규모합병"],
-      "difficulty": "medium"
+      "tags": ["합병", "간이합병", "소규모합병", "주식매수청구권", "합병무효의 소"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-23",
-      "tags": ["회사법", "주식회사", "대표소송"],
-      "difficulty": "medium"
+      "tags": ["대표소송", "소수주주권", "이사의 책임", "업무집행지시자", "전속관할"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-24",
-      "tags": ["회사법", "주식회사", "감사", "감사위원회"],
-      "difficulty": "high"
+      "tags": ["감사", "감사위원회", "상근감사", "선임", "해임"],
+      "difficulty": "상"
     },
     {
       "question_id": "1r-claw-2024-25",
-      "tags": ["회사법", "주식회사", "자본", "신주발행"],
-      "difficulty": "medium"
+      "tags": ["신주발행", "실권주", "신주인수권증서", "현물출자", "인수인의 책임"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-26",
-      "tags": ["회사법", "유한책임회사"],
-      "difficulty": "medium"
+      "tags": ["유한책임회사", "사원", "출자", "지분양도", "경업금지의무"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-27",
-      "tags": ["회사법", "주식회사", "이익배당"],
-      "difficulty": "medium"
+      "tags": ["이익배당", "현물배당", "주식배당", "중간배당", "위법배당"],
+      "difficulty": "상"
     },
     {
       "question_id": "1r-claw-2024-28",
-      "tags": ["회사법", "주식회사", "해산"],
-      "difficulty": "low"
+      "tags": ["주식회사", "해산사유", "존립기간", "합병", "파산"],
+      "difficulty": "하"
     },
     {
       "question_id": "1r-claw-2024-29",
-      "tags": ["회사법", "주식회사", "사채", "전환사채"],
-      "difficulty": "medium"
+      "tags": ["전환사채", "제3자배정", "주주총회결의", "경영상이유", "전환사채등기"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-30",
-      "tags": ["회사법", "주식회사", "자본", "액면미달발행"],
-      "difficulty": "high"
+      "tags": ["액면미달발행", "주식할인발행", "주주총회 특별결의", "미상각액", "변경등기"],
+      "difficulty": "상"
     },
     {
       "question_id": "1r-claw-2024-31",
-      "tags": ["회사법", "상장회사특례"],
-      "difficulty": "medium"
+      "tags": ["상장회사 특례", "주식매수선택권", "준법통제기준", "소수주주권", "신용공여"],
+      "difficulty": "상"
     },
     {
       "question_id": "1r-claw-2024-32",
-      "tags": ["회사법", "유한회사", "사원총회"],
-      "difficulty": "medium"
+      "tags": ["유한회사", "사원총회", "소집청구", "결의방법", "의결권"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-33",
-      "tags": ["어음수표법", "환어음", "어음요건"],
-      "difficulty": "low"
+      "tags": ["환어음", "어음요건", "필수적 기재사항", "보충적 효력", "지급지"],
+      "difficulty": "하"
     },
     {
       "question_id": "1r-claw-2024-34",
-      "tags": ["어음수표법", "환어음", "수표", "이자"],
-      "difficulty": "medium"
+      "tags": ["이자약정", "환어음", "수표", "어음법", "수표법"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-35",
-      "tags": ["어음수표법", "발행인책임"],
-      "difficulty": "medium"
+      "tags": ["발행인 책임", "환어음", "수표", "약속어음", "백지어음"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-36",
-      "tags": ["어음수표법", "배서"],
-      "difficulty": "medium"
+      "tags": ["배서", "환어음", "수표", "백지식배서", "일부배서"],
+      "difficulty": "상"
     },
     {
       "question_id": "1r-claw-2024-37",
-      "tags": ["어음수표법", "배서", "기한후배서"],
-      "difficulty": "high"
+      "tags": ["기한 후 배서", "지명채권양도", "인적항변", "지급거절증서", "어음항변"],
+      "difficulty": "상"
     },
     {
       "question_id": "1r-claw-2024-38",
-      "tags": ["어음수표법", "환어음", "인수"],
-      "difficulty": "medium"
+      "tags": ["환어음", "인수", "인수제시", "인수거절", "단순인수"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-39",
-      "tags": ["어음수표법", "환어음", "수표", "지급"],
-      "difficulty": "medium"
+      "tags": ["지급제시", "환어음", "수표", "지급위탁취소", "만기 전 지급"],
+      "difficulty": "중"
     },
     {
       "question_id": "1r-claw-2024-40",
-      "tags": ["어음수표법", "환어음", "상환청구권"],
-      "difficulty": "medium"
+      "tags": ["상환청구권", "소구권", "환어음", "거절증서", "무비용상환"],
+      "difficulty": "중"
     }
   ]
 }
