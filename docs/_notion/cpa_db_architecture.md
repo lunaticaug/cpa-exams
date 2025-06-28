@@ -72,8 +72,16 @@ graph TB
             EC30[EC30 기출문제<br/>📋 Past Exam DB]
         end
         
-        subgraph "세법 (Tax)"
-            TAX[Tax 단원별이론<br/>📝 Theory DB]
+        subgraph "세법 (Tax) ⭐ 완전구조"
+            TAX20[TAX20 연습서<br/>📚 Practice DB]
+            TAX21[TAX21 정우승유예2023<br/>🎓 Lecture DB]
+            TAX22[TAX22 회독표<br/>📊 Progress DB ⭐]
+            TAXTH[Tax 단원별이론<br/>📝 Theory DB]
+            
+            TAX22 -.->|참조| TAX20
+            TAX22 -.->|참조| TAX21
+            TAX22 -.->|참조| TAXTH
+            TAX20 -.->|참조| TAX21
         end
         
         subgraph "기타 (Others)"
