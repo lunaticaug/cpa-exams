@@ -231,8 +231,33 @@ INDEXES:
   - ⭐중요도 (Priority)
 ```
 
-#### Tax (세법)
+#### Tax (세법) ⭐ **완전 구조**
 ```sql
+-- TAX22 회독표 (Progress DB) ⭐
+PRIMARY KEY: id
+INDEXES:
+  - 🟣Chapter (100~500번대 체계)
+  - 🗂️법소부 (1.법인~5.국기)
+  - 📅푼날짜시간 (Date tracking)
+  - 🔋진행률 (Progress status)
+  - Relations: 단원별이론, 연습서, 강의
+
+-- TAX20 연습서 (Practice DB)
+PRIMARY KEY: id  
+INDEXES:
+  - 🟣Chapter (100~500번대)
+  - 🗂️Category (워크북/연습서/모의고사)
+  - 🗂️기출연도 (2005~2024, CTA 포함)
+  - 정우승2기 01~10회차 세분화
+
+-- TAX21 정우승유예2023 (Lecture DB)
+PRIMARY KEY: id
+INDEXES:
+  - Chapter (100~500번대)
+  - 법소부 (1.법인~4.상증)
+  - 강의날짜 (유예9월/11월/동차때)
+  - Relations: 연습서, 회독표
+
 -- Tax 단원별이론 (Theory DB)
 PRIMARY KEY: id
 INDEXES:
