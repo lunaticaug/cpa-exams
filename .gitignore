@@ -15,6 +15,7 @@ __pycache__/
 **/wip/**
 *_cache*
 **/__temp/**
+*_private*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
