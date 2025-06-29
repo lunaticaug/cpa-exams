@@ -1,0 +1,88 @@
+{
+  "metadata_log": [
+    {
+      "question_id": "1r-financial-management-2025-1",
+      "tags": [
+        "자본예산",
+        "기계교체",
+        "증분현금흐름",
+        "순현재가치",
+        "감가상각",
+        "법인세"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-financial-management-2025-2",
+      "tags": [
+        "기업인수합병",
+        "M&A",
+        "시너지",
+        "합병대가",
+        "현금인수",
+        "주식교환"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-financial-management-2025-3",
+      "tags": [
+        "투자안평가",
+        "대리인문제",
+        "주주와채권자",
+        "부의이전",
+        "변동계수",
+        "기대수익률"
+      ],
+      "difficulty": "중상"
+    },
+    {
+      "question_id": "1r-financial-management-2025-4",
+      "tags": [
+        "포트폴리오이론",
+        "효용함수",
+        "최적투자비율",
+        "선도계약",
+        "헤징",
+        "로그효용"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-financial-management-2025-5",
+      "tags": [
+        "차익거래가격결정이론",
+        "APT",
+        "자본자산가격결정모형",
+        "CAPM",
+        "증권시장선",
+        "베타"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-financial-management-2025-6",
+      "tags": [
+        "채권평가",
+        "무이표채",
+        "기대가설",
+        "듀레이션",
+        "볼록성",
+        "수익률곡선"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-financial-management-2025-7",
+      "tags": [
+        "선물",
+        "옵션",
+        "풋콜패리티",
+        "위험중립평가",
+        "헤징",
+        "차익거래"
+      ],
+      "difficulty": "중상"
+    }
+  ]
+}
