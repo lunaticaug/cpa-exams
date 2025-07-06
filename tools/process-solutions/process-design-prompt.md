@@ -124,3 +124,25 @@
 #### 주의3: 완전성; Mutually Exclusive and Collectively Exhaustive
 
 ### 5. (o3-pro); A. 올해 문제풀이
+
+
+
+---
+
+markdown으로 변환된 과거 기출문제 리스트는 git의 다음 저장소에 들어있습니다.
+[cpa-exams/tree/main/tools/process-02-file-converter/using-llm/sample]
+
+파일 명명규칙은 아래와 같습니다.
+**{model}-cpa-{round}-{subject}-{year}.md**
+
+우리는 {gemini}-cpa-, gemini가 변환한 파일을 사용할 예정입니다.
+
+예를들어, 2025년 1차 세법 기출문제 파일명은 다음과 같습니다.
+**gemini-cpa-1r-tax-2025.md**
+
+이전 쿼리의 QA쌍 요구사항과 조사내용, 추가정보를 바탕으로 2라운드 조사를 진행하세요.
+
+C. 과거 기출문제 참조를 Notion DB에서 탐색한다면, DB에서 확인되는 문제 제목 또는 참조가능한 primary key를 제공하여 사용자의 원활한 탐색을 도와주세요.
+
+Notion DB에서 발견되는 실존인물의 명칭은 비식별처리합니다.
+
