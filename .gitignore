@@ -9,6 +9,8 @@ __pycache__/
 *.hwp
 *.docx
 *.doc
+CLAUDE.md
+user-preset.md
 
 # Ignore private directories and files
 **/private/**
@@ -17,9 +19,11 @@ __pycache__/
 **/downloads/**
 **/download/**
 **/wip/**
+_sessions/
 *_cache*
 **/__temp/**
 *_private*
+*/source/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
