@@ -1,0 +1,30 @@
+# 작업 공간 (중간 파일들)
+workspace/
+
+# 임시 보관 (이전 버전들)
+__temp/
+
+# 로컬 전용
+_local/
+_private/
+
+# 원본 파일들 (이미 _source에 있음)
+_source/
+
+# 임시 파일
+*.tmp
+*.bak
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# 이미지 파일들 (재생성 가능)
+*.png
+*.jpg
+*.jpeg
+
+# 대용량 파일
+*.tar.gz
+*.zip
