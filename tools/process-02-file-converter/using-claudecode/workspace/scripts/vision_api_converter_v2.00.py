@@ -160,8 +160,9 @@ def main():
     converter = VisionAPIConverter()
     
     # 2024년 원가회계 파일 변환
-    pdf_path = Path("/Users/user/GitHub/active/cpa-exams/tools/process-02-file-converter/using-claudecode/_source/2024_2차_원가회계_2-1+원가회계+문제(2024-2).pdf")
-    output_path = Path("/Users/user/GitHub/active/cpa-exams/tools/process-02-file-converter/using-claudecode/output/converted_files/2024_원가회계_v2.00_vision_api.md")
+    base_dir = Path(__file__).parent.parent.parent  # using-claudecode 디렉토리로 이동
+    pdf_path = base_dir / "_source/2024_2차_원가회계_2-1+원가회계+문제(2024-2).pdf"
+    output_path = base_dir / "output/converted_files/2024_원가회계_v2.00_vision_api.md"
     
     if pdf_path.exists():
         success = converter.convert_pdf(pdf_path, output_path)
