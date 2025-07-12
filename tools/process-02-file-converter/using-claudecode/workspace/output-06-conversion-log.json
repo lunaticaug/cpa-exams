@@ -1,0 +1,58 @@
+{
+  "timestamp": "2025-07-12T11:18:00.540196",
+  "total_files": 10,
+  "success": 10,
+  "failed": 0,
+  "details": [
+    {
+      "file": "2025_2차_원가회계_2-1+원가관리회계+문제(2025-2).pdf",
+      "status": "success",
+      "output": "output/markdown/2025_2차_원가회계_2-1+원가관리회계+문제(2025-2).md"
+    },
+    {
+      "file": "2024_2차_원가회계_2-1+원가회계+문제(2024-2).pdf",
+      "status": "success",
+      "output": "output/markdown/2024_2차_원가회계_2-1+원가회계+문제(2024-2).md"
+    },
+    {
+      "file": "2023_2차_원가회계_2-1+원가회계+문제(2023-2).pdf",
+      "status": "success",
+      "output": "output/markdown/2023_2차_원가회계_2-1+원가회계+문제(2023-2).md"
+    },
+    {
+      "file": "2022_2차_원가회계_(2022)2-1.+원가회계.pdf",
+      "status": "success",
+      "output": "output/markdown/2022_2차_원가회계_(2022)2-1.+원가회계.md"
+    },
+    {
+      "file": "2021_2차_원가회계_(2021)2-1.+원가회계.pdf",
+      "status": "success",
+      "output": "output/markdown/2021_2차_원가회계_(2021)2-1.+원가회계.md"
+    },
+    {
+      "file": "2020_2차_원가회계_(2020)2-1.+원가회계.pdf",
+      "status": "success",
+      "output": "output/markdown/2020_2차_원가회계_(2020)2-1.+원가회계.md"
+    },
+    {
+      "file": "2019_2차_원가회계_(2019)2-1.+원가회계.pdf",
+      "status": "success",
+      "output": "output/markdown/2019_2차_원가회계_(2019)2-1.+원가회계.md"
+    },
+    {
+      "file": "2018_2차_원가회계_(2018)+2-1.+원가회계.pdf",
+      "status": "success",
+      "output": "output/markdown/2018_2차_원가회계_(2018)+2-1.+원가회계.md"
+    },
+    {
+      "file": "2017_2차_원가회계_2-1.+원가회계.pdf",
+      "status": "success",
+      "output": "output/markdown/2017_2차_원가회계_2-1.+원가회계.md"
+    },
+    {
+      "file": "2016_2차_원가회계__(2-1)원가회계+문제.pdf",
+      "status": "success",
+      "output": "output/markdown/2016_2차_원가회계__(2-1)원가회계+문제.md"
+    }
+  ]
+}
