@@ -119,8 +119,9 @@ def main():
     guide = ClaudeVisionGuide()
     
     # 2024년 원가회계 파일 준비
-    pdf_path = Path("/Users/user/GitHub/active/cpa-exams/tools/process-02-file-converter/using-claudecode/_source/2024_2차_원가회계_2-1+원가회계+문제(2024-2).pdf")
-    output_dir = Path("/Users/user/GitHub/active/cpa-exams/tools/process-02-file-converter/using-claudecode/output/vision_ready")
+    base_dir = Path(__file__).parent.parent.parent  # using-claudecode 디렉토리로 이동
+    pdf_path = base_dir / "_source/2024_2차_원가회계_2-1+원가회계+문제(2024-2).pdf"
+    output_dir = base_dir / "output/vision_ready"
     
     if pdf_path.exists():
         image_paths = guide.prepare_for_vision_analysis(pdf_path, output_dir)

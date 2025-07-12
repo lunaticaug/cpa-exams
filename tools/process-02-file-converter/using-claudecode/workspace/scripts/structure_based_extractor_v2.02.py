@@ -265,14 +265,17 @@ class StructureBasedExtractor:
 
 def main():
     """구조 기반 추출 실행"""
+    # Get the script's directory and construct relative paths
+    script_dir = Path(__file__).parent.parent  # Go up to workspace/
+    
     # 구조 템플릿 경로
-    template_path = Path("/Users/user/GitHub/active/cpa-exams/tools/process-02-file-converter/using-claudecode/workspace/2024_원가회계_헤딩_구조.md")
+    template_path = script_dir / "2024_원가회계_헤딩_구조.md"
     
     # PDF 경로
-    pdf_path = Path("/Users/user/GitHub/active/cpa-exams/tools/process-02-file-converter/using-claudecode/_source/2024_2차_원가회계_2-1+원가회계+문제(2024-2).pdf")
+    pdf_path = script_dir.parent / "_source" / "2024_2차_원가회계_2-1+원가회계+문제(2024-2).pdf"
     
     # 출력 경로
-    output_path = Path("/Users/user/GitHub/active/cpa-exams/tools/process-02-file-converter/using-claudecode/output/converted_files/2024_원가회계_v2.02_structure_based.md")
+    output_path = script_dir.parent / "output" / "converted_files" / "2024_원가회계_v2.02_structure_based.md"
     
     if template_path.exists() and pdf_path.exists():
         extractor = StructureBasedExtractor(template_path)

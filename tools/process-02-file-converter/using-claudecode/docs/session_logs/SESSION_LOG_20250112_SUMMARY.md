@@ -29,9 +29,9 @@
 3. **표 마킹 전략**: 구조와 내용을 분리하여 처리
 
 ## 파일 위치
-- 작업 디렉토리: `/Users/user/GitHub/active/cpa-exams/tools/process-02-file-converter/using-claudecode/`
-- 주요 스크립트: `solution_v1.0/`
-- 결과물: `output/`, `documentation/`
+- 작업 디렉토리: `tools/process-02-file-converter/using-claudecode/`
+- 주요 스크립트: `workspace/scripts/`
+- 결과물: `output/`, `docs/`
 
 ## 다음 세션 권장사항
 1. vision_based_template을 기반으로 실제 데이터 추출

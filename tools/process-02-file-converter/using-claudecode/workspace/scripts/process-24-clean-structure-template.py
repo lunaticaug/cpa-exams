@@ -220,7 +220,7 @@ class CleanStructureTemplate:
 
 
 def main():
-    base_dir = Path("/Users/user/GitHub/active/cpa-exams/tools/process-02-file-converter/using-claudecode")
+    base_dir = Path(__file__).parent.parent.parent  # using-claudecode 디렉토리로 이동
     markdown_path = base_dir / "output/output_v1.23_pdf_to_markdown/2024_2차_원가회계_2-1+원가회계+문제(2024-2).md"
     
     generator = CleanStructureTemplate(markdown_path)
