@@ -1,0 +1,35 @@
+{
+  "extraction_steps": [
+    {
+      "step": 1,
+      "description": "페이지별 텍스트 블록 추출",
+      "method": "extract_words()로 위치 정보 포함 추출"
+    },
+    {
+      "step": 2,
+      "description": "구조 요소 매칭",
+      "patterns": {
+        "problem": "【문제\\s*(\\d+)】\\s*\\((\\d+)점\\)",
+        "sub_question": "\\(물음\\s*(\\d+)\\)",
+        "data": "<자료\\s*(\\d+)?>"
+      }
+    },
+    {
+      "step": 3,
+      "description": "계층 구조 구성",
+      "rules": [
+        "문제 하위에 물음 배치",
+        "자료는 참조하는 물음 앞에 배치",
+        "답안양식은 해당 물음 직후 배치"
+      ]
+    },
+    {
+      "step": 4,
+      "description": "표 매핑",
+      "rules": [
+        "답안양식 키워드 다음 표는 답안 템플릿",
+        "자료 내의 표는 데이터 테이블"
+      ]
+    }
+  ]
+}

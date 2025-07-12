@@ -1,0 +1,105 @@
+{
+  "file_analysis": {
+    "total_hwp": 23,
+    "total_pdf": 10,
+    "years_with_both": 10,
+    "hwp_only_years": [
+      "2003",
+      "2004",
+      "2005",
+      "2006",
+      "2007",
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015"
+    ],
+    "hwp_only_count": 13
+  },
+  "methods": [
+    {
+      "method": "LibreOffice",
+      "available": false,
+      "install": "brew install --cask libreoffice (macOS)",
+      "priority": 2
+    },
+    {
+      "method": "Hancom Office",
+      "available": false,
+      "note": "한컴오피스가 설치되어 있다면 가장 정확한 변환 가능",
+      "priority": 1
+    },
+    {
+      "method": "Online API",
+      "available": "conditional",
+      "options": [
+        "CloudConvert API",
+        "ConvertAPI",
+        "Zamzar API"
+      ],
+      "pros": [
+        "자동화 가능",
+        "다양한 포맷 지원"
+      ],
+      "cons": [
+        "API 키 필요",
+        "파일 크기 제한",
+        "보안 고려사항"
+      ],
+      "priority": 3
+    },
+    {
+      "method": "Vision API (Claude/GPT)",
+      "available": true,
+      "process": [
+        "1. HWP → PDF 변환 (다른 방법 사용)",
+        "2. PDF → 이미지 변환",
+        "3. Vision API로 텍스트 추출 및 구조 분석"
+      ],
+      "pros": [
+        "복잡한 레이아웃 정확히 인식",
+        "표와 수식 처리 우수"
+      ],
+      "cons": [
+        "API 비용 발생",
+        "처리 시간 소요"
+      ],
+      "priority": 4
+    }
+  ],
+  "recommendation": {
+    "recommended_approach": "Hybrid Strategy",
+    "steps": [
+      {
+        "step": 1,
+        "action": "PDF 파일 우선 처리",
+        "method": "pdfplumber + 표 영역은 Vision API",
+        "reason": "이미 PDF 버전이 있는 파일들은 직접 처리"
+      },
+      {
+        "step": 2,
+        "action": "HWP 전용 파일 식별",
+        "method": "2016년 이전 파일들 (HWP만 존재)",
+        "files": [
+          "2003-2015년 파일들"
+        ]
+      },
+      {
+        "step": 3,
+        "action": "소량 수동 변환",
+        "method": "한컴오피스 또는 온라인 도구로 PDF 변환",
+        "reason": "13개 파일만 처리하면 됨"
+      },
+      {
+        "step": 4,
+        "action": "통합 Markdown 변환",
+        "method": "기존 PDF 변환 스크립트 활용",
+        "output": "연도별 정리된 Markdown 파일"
+      }
+    ]
+  }
+}

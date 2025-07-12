@@ -1,6 +1,7 @@
-# CLAUDE.md
+# CLAUDE.md - CPA Exams Project Guidelines
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides PROJECT-SPECIFIC guidance to Claude Code for the CPA Exams project.
+**This overrides any conflicting guidelines in the global CLAUDE.md.**
 
 ## 1. 프로젝트 개요
 
@@ -13,10 +14,36 @@ deep think 모드로 계획하고 최적의 결과물을 위한 작업을 수행
 ### 1.2 작업 원칙
 파일경로, 파일명명규칙을 제외하고는 클로드의 자율적인 판단에 따라 작업을 수행할 수 있습니다.
 deep think를 이용하여 사용자의 의도와 목표를 이해하고, 그에 맞는 전략을 수립하세요.
+gitignore에 등록된 추적 제외 파일/폴더는 사용자가 특별한 의도로 관리하는 것이므로 신중하게 다루어야 합니다.
 
 ## 2. 프로젝트 구조
 
 프로젝트 구조는 README.md를 참조하세요. 
+
+### 🚨 필수 경로 참조 원칙
+
+**모든 파일 작업 시 반드시 다음을 준수하세요:**
+
+1. **현재 위치 확인**
+   - 작업 시작 시 `pwd` 명령으로 현재 위치 확인
+   - 기본 작업 디렉토리: `/Users/user/GitHub/active/cpa-exams`
+   - 하위 폴더로 이동했다면 작업 완료 후 원위치로 복귀
+
+2. **절대 경로 사용**
+   - 파일 읽기/쓰기 시 절대 경로 사용 권장
+   - 상대 경로 사용 시 현재 위치 기준임을 명확히 인지
+
+3. **경로 검증**
+   - 파일 생성 전: 대상 폴더 존재 여부 확인 (`LS` 도구 사용)
+   - 파일 이동 시: 출발지와 목적지 경로 모두 확인
+   - 잘못된 위치에 파일 생성 시 즉시 올바른 위치로 이동
+
+4. **프로세스별 경로 규칙**
+   ```
+   process-01 관련 → tools/process-01-get-files/
+   process-02 관련 → tools/process-02-file-converter/
+   전체 프로젝트 → 루트 또는 /docs/
+   ```
 
 ### 주요 폴더별 작업 가이드
 
@@ -27,6 +54,13 @@ deep think를 이용하여 사용자의 의도와 목표를 이해하고, 그에
 **tools/process-02-file-converter/**
 - 각 변환 방식별로 독립적인 하위 폴더 관리
 - 변환 결과는 각 방식의 하위 폴더에 저장
+- `using-claudecode/` 폴더 구조:
+  - `_archive/` - 초기 시도 및 실험 스크립트 (process-01~19)
+  - `workspace/` - 현재 작업 중인 활성 코드
+    - `scripts/` - 최종 버전 스크립트 (v1.10~v1.31)
+    - `structure/` - 구조 분석 결과
+  - `_source/` - 원본 HWP/PDF 파일
+  - `docs/` - process-02 전용 문서 (세션 로그, 기술 문서)
 
 **tools/process-solutions/**
 - 프롬프트 템플릿과 설계 문서 참고
@@ -178,6 +212,59 @@ Co-Authored-By: Claude <noreply@anthropic.com>
 - 세션 파일: `YYYYMMDD_주제.md`
 - 질문 템플릿: `category_topic.md`
 - 주제는 영문, 언더스코어로 단어 구분
+
+---
+
+## 9. 일반적인 작업 명령어
+
+### 9.1 파일 변환 작업
+```bash
+# PDF 변환 작업 실행
+cd tools/process-02-file-converter/using-claudecode/
+python pdf_converter_v1.14.py
+
+# 구조 분석 실행
+python structure_analyzer_v1.21.py
+
+# 배치 처리 실행
+python batch_processor_v1.10.py
+```
+
+### 9.2 문서 저장 위치 규칙
+
+**문서 종류별 저장 위치:**
+```
+전체 프로젝트 문서 → /docs/
+process-01 문서 → /tools/process-01-get-files/docs/
+process-02 문서 → /tools/process-02-file-converter/docs/
+작업 세션 기록 → /_sessions/
+실험/실패 기록 → 각 process의 _archive/
+```
+
+**⚠️ 주의사항:**
+- process-01(다운로드) 관련 내용을 process-02 폴더에 저장하지 말 것
+- 새 문서 작성 시 먼저 어느 process에 속하는지 확인
+- 불확실한 경우 사용자에게 확인 요청
+
+### 9.3 캐시 재생성
+```bash
+# 게시물 URL 캐시 삭제 및 재수집
+rm tools/process-01-get-files/post_urls_cache.csv
+python tools/process-01-get-files/process_01_get_posts.py
+
+# 파일 URL 캐시 삭제 및 재수집
+rm tools/process-01-get-files/file_urls_cache.csv
+python tools/process-01-get-files/process_02_get_file_urls.py
+```
+
+### 9.3 다운로드 실행
+```bash
+# 기본 다운로드
+python tools/process-01-get-files/process_03_download.py
+
+# 조건부 다운로드 (대화형)
+python tools/process-01-get-files/process_03_download_v2.py
+```
 
 ---
 

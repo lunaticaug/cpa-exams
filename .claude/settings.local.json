@@ -4,7 +4,21 @@
       "Bash(mkdir:*)",
       "Bash(mv:*)",
       "Bash(rm:*)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(git add:*)",
+      "Bash(cat:*)",
+      "Bash(git commit:*)",
+      "Bash(cp:*)",
+      "Bash(python:*)",
+      "Bash(grep:*)",
+      "Bash(find:*)",
+      "Bash(true)",
+      "Bash(diff:*)",
+      "Bash(tree:*)",
+      "Bash(for:*)",
+      "Bash(do echo \"=== Checking $file ===\")",
+      "Bash(done)",
+      "Bash(md5:*)"
     ],
     "deny": []
   }

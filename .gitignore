@@ -10,6 +10,7 @@ __pycache__/
 *.docx
 *.doc
 user-preset.md
+.claude/
 
 # Ignore private directories and files
 **/private/**
@@ -23,6 +24,7 @@ _sessions/
 **/__temp/**
 *_private*
 */source/*
+**/source/**
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,0 +1,18 @@
+{
+  "tools": {
+    "Pandoc": {
+      "available": false,
+      "version": null
+    },
+    "python-docx": {
+      "available": true,
+      "version": "1.2.0"
+    },
+    "mammoth": {
+      "available": false,
+      "version": null
+    }
+  },
+  "recommended_path": "HWP → DOCX (manual) → Pandoc → Markdown",
+  "table_strategy": "Use Pandoc with pipe_tables extension"
+}

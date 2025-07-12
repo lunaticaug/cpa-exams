@@ -1,0 +1,64 @@
+Directory Structure Visualization
+=================================
+
+/Users/user/GitHub/active/cpa-exams/tools/process-02-file-converter/using-claudecode/ (LEVEL 1)
+│
+├── archive/
+│   ├── experimental/           (5 Python scripts: process-15 to process-19)
+│   ├── initial-attempts/       (12 Python scripts: process-01 to process-13)
+│   ├── intermediate-outputs/   (JSON outputs + add-version-info.py)
+│   └── output-folders/
+│       ├── markdown/           (10 converted MD files 2016-2025)
+│       ├── markdown_improved/  (1 improved MD file)
+│       └── structured/         (6 structured output files)
+│
+├── documentation/
+│   ├── structure-templates/    (Year-specific structure templates)
+│   └── (Various documentation MD files)
+│
+├── output/
+│   └── output_v1.23_pdf_to_markdown/  (10 final MD outputs 2016-2025)
+│
+├── solution_v1.0/              (3 Python scripts: batch_processor_v1.10, pdf_converter_v1.14, structure_analyzer_v1.21)
+│
+├── source/                     (52 files: HWP and PDF pairs from 2003-2025)
+│
+├── structure-templates/        (Year-specific templates + README)
+│
+└── tools/                      ⚠️ INCORRECTLY NESTED
+    └── process-02-file-converter/
+        └── using-claudecode/ (LEVEL 2)
+            │
+            ├── documentation/
+            │   └── (2 files: vision_template.md, extraction_guide.json)
+            │
+            ├── output/
+            │   ├── pdf_analysis_cache.json
+            │   └── vision_pages/       (PNG images of pages)
+            │
+            ├── solution_v1.0/          (5 Python scripts: process-22 to 24, textbox_identifier_v1.25, efficient_pdf_processor_v1.30)
+            │
+            ├── tools/                  ⚠️ NESTED AGAIN
+            │   └── process-02-file-converter/
+            │       └── using-claudecode/ (LEVEL 3)
+            │           │
+            │           ├── SESSION_LOG_20250112_FINAL.md
+            │           │
+            │           └── solution_v1.0/
+            │               └── vision_based_template_v1.31.py  (DEEPEST FILE)
+            │
+            ├── 2025-07-12-caveat-the-messages-below-were-generated-by-the-u.txt
+            ├── README_ARCHIVE.md
+            ├── VERSION_GUIDE.md
+            └── SESSION_LOG_20250112_FINAL.md
+
+Key Observations:
+=================
+1. The nesting goes 3 levels deep with repeated "tools/process-02-file-converter/using-claudecode/" paths
+2. The deepest file (vision_based_template_v1.31.py) is in Level 3
+3. Python scripts are scattered across different levels:
+   - Level 1: solution_v1.0/ has 3 scripts
+   - Level 2: solution_v1.0/ has 5 scripts  
+   - Level 3: solution_v1.0/ has 1 script
+4. Some documentation files appear in multiple levels
+5. The source files (HWP/PDF) are only in Level 1, which is correct
