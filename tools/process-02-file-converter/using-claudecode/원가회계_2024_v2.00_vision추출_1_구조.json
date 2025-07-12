@@ -1,0 +1,39 @@
+{
+  "total_pages": 2,
+  "problems": [
+    {
+      "number": 1,
+      "points": 24,
+      "materials": [
+        "자료 2: 실제개별원가계산, 제조간접원가 배부기준 (X부문: 기계가동시간, Y부문: 직접노무시간, Z부문: 기계가동시간+직접노무시간)"
+      ],
+      "questions": [
+        "20x1년의 각 제조부문별 제조간접원가 배부율을 계산하시오.",
+        "20x1년 말의 재공품, 제품, 매출원가 계정의 잔액을 각각 계산하시오.",
+        "외부 전문가는 ㈜한국의 경영자에게 정상원가계산의 도입을 권유하고 있다. 본인이 외부 전문가라고 가정하고, 실제원가계산과 비교했을 때 정상원가계산 도입의 유용성 2가지를 의사결정 측면에서 설명하시오."
+      ],
+      "tables": [
+        {
+          "title": "작업별 직접원가",
+          "rows": 3,
+          "cols": 4
+        },
+        {
+          "title": "부문별 제조간접원가",
+          "rows": 2,
+          "cols": 4
+        },
+        {
+          "title": "부문별 시간 사용량",
+          "rows": 4,
+          "cols": 7
+        }
+      ]
+    }
+  ],
+  "output_file": "원가회계_2024_v2.00_vision추출_1.md",
+  "source_files": [
+    "workspace/vision_output/page_001_추출_3.json",
+    "workspace/vision_output/page_002_extracted_old.json"
+  ]
+}
