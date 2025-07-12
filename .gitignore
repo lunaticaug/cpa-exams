@@ -9,7 +9,6 @@ __pycache__/
 *.hwp
 *.docx
 *.doc
-CLAUDE.md
 user-preset.md
 
 # Ignore private directories and files
