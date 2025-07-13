@@ -1,0 +1,86 @@
+[
+  {
+    "original": "1∼2,000",
+    "corrected": "1~2,000",
+    "timestamp": "2025-07-13T00:27:45.510810",
+    "type": "auto_correction"
+  },
+  {
+    "original": "2,001∼4,000",
+    "corrected": "2,001~4,000",
+    "timestamp": "2025-07-13T00:27:45.510819",
+    "type": "auto_correction"
+  },
+  {
+    "original": "4,001∼6,000",
+    "corrected": "4,001~6,000",
+    "timestamp": "2025-07-13T00:27:45.510822",
+    "type": "auto_correction"
+  },
+  {
+    "original": "0.4332",
+    "corrected": "0,4332",
+    "timestamp": "2025-07-13T00:27:45.510836",
+    "type": "auto_correction"
+  },
+  {
+    "original": "0.4772",
+    "corrected": "0,4772",
+    "timestamp": "2025-07-13T00:27:45.510840",
+    "type": "auto_correction"
+  },
+  {
+    "original": "0.4938",
+    "corrected": "0,4938",
+    "timestamp": "2025-07-13T00:27:45.510845",
+    "type": "auto_correction"
+  },
+  {
+    "original": "0.4987",
+    "corrected": "0,4987",
+    "timestamp": "2025-07-13T00:27:45.510849",
+    "type": "auto_correction"
+  },
+  {
+    "original": "60\n40\n50",
+    "corrected": "6040\n50",
+    "timestamp": "2025-07-13T00:27:45.548228",
+    "type": "auto_correction"
+  },
+  {
+    "original": "100\n60\n40",
+    "corrected": "10060\n40",
+    "timestamp": "2025-07-13T00:27:45.548235",
+    "type": "auto_correction"
+  },
+  {
+    "original": "140\n100\n45",
+    "corrected": "140100\n45",
+    "timestamp": "2025-07-13T00:27:45.548238",
+    "type": "auto_correction"
+  },
+  {
+    "original": "300\n200\n135",
+    "corrected": "300200\n135",
+    "timestamp": "2025-07-13T00:27:45.548241",
+    "type": "auto_correction"
+  },
+  {
+    "original": "0.9091",
+    "corrected": "0,9091",
+    "timestamp": "2025-07-13T00:27:45.585011",
+    "type": "auto_correction"
+  },
+  {
+    "original": "0.8264",
+    "corrected": "0,8264",
+    "timestamp": "2025-07-13T00:27:45.585017",
+    "type": "auto_correction"
+  },
+  {
+    "original": "0.7513",
+    "corrected": "0,7513",
+    "timestamp": "2025-07-13T00:27:45.585020",
+    "type": "auto_correction"
+  }
+]

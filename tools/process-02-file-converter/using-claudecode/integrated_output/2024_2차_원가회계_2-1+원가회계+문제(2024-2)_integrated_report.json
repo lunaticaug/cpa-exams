@@ -1,0 +1,104 @@
+{
+  "file": "2024_2차_원가회계_2-1+원가회계+문제(2024-2).pdf",
+  "timestamp": "2025-07-13T00:51:08.812167",
+  "pages": [
+    {
+      "page": 1,
+      "confidence": 0.98,
+      "method": "text_layer_primary",
+      "corrections": 17
+    },
+    {
+      "page": 2,
+      "confidence": 0.98,
+      "method": "text_layer_primary",
+      "corrections": 17
+    },
+    {
+      "page": 3,
+      "confidence": 0.98,
+      "method": "text_layer_primary",
+      "corrections": 17
+    },
+    {
+      "page": 4,
+      "confidence": 0.98,
+      "method": "text_layer_primary",
+      "corrections": 17
+    },
+    {
+      "page": 5,
+      "confidence": 0.98,
+      "method": "text_layer_primary",
+      "corrections": 17
+    },
+    {
+      "page": 6,
+      "confidence": 0.98,
+      "method": "text_layer_primary",
+      "corrections": 17
+    },
+    {
+      "page": 7,
+      "confidence": 0.98,
+      "method": "text_layer_primary",
+      "corrections": 17
+    },
+    {
+      "page": 8,
+      "confidence": 0.98,
+      "method": "text_layer_primary",
+      "corrections": 17
+    },
+    {
+      "page": 9,
+      "confidence": 0.98,
+      "method": "text_layer_primary",
+      "corrections": 17
+    },
+    {
+      "page": 10,
+      "confidence": 0.98,
+      "method": "text_layer_primary",
+      "corrections": 17
+    },
+    {
+      "page": 11,
+      "confidence": 0.98,
+      "method": "text_layer_primary",
+      "corrections": 17
+    },
+    {
+      "page": 12,
+      "confidence": 0.98,
+      "method": "text_layer_primary",
+      "corrections": 17
+    },
+    {
+      "page": 13,
+      "confidence": 0.98,
+      "method": "text_layer_primary",
+      "corrections": 17
+    },
+    {
+      "page": 14,
+      "confidence": 0.98,
+      "method": "text_layer_primary",
+      "corrections": 17
+    },
+    {
+      "page": 15,
+      "confidence": 0.98,
+      "method": "text_layer_primary",
+      "corrections": 17
+    }
+  ],
+  "summary": {
+    "total_pages": 45,
+    "high_confidence_ratio": 0.3333333333333333,
+    "medium_confidence_ratio": 0.6666666666666666,
+    "low_confidence_ratio": 0.0,
+    "auto_corrections_applied": 0,
+    "average_confidence": 0.85
+  }
+}

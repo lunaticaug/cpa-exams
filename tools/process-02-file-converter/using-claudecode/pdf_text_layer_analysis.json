@@ -1,0 +1,98 @@
+[
+  {
+    "file": "2022_2차_원가회계_(2022)2-1.+원가회계.pdf",
+    "has_text": true,
+    "text_quality": "high",
+    "sample_text": "원가회계\n2/16 1교시\n【문제 1】(26점) ∙ 20x1년에 ㈜한국은 C제품 1,000단위를 생산하기\n위해 새롭게 작업 #103을 착수하였다.\n㈜한국은 A제품, B제품 및 C제품을 각각 생산하여\n판매하고 있다. ㈜한국은 각 작업별로 정상개별원가계산 ∙ 20x1년 말 현재 #101은 작업이 진행 중이며,\n(평준화개별원가계산: normal job-order",
+    "page_count": 15,
+    "text_coverage": [
+      {
+        "page": 1,
+        "char_count": 1199,
+        "has_text": true
+      },
+      {
+        "page": 2,
+        "char_count": 396,
+        "has_text": true
+      },
+      {
+        "page": 3,
+        "char_count": 1168,
+        "has_text": true
+      }
+    ]
+  },
+  {
+    "file": "2023_2차_원가회계_2-1+원가회계+문제(2023-2).pdf",
+    "has_text": true,
+    "text_quality": "low",
+    "sample_text": "2023년도\n제58회 공인회계사 제2차시험 문제\n과 목 명 원 가 회 계\n일 자 2023. 6. 25.(일)\n제 1 교시 10:00～12:00\n공인회계사시험위원회",
+    "page_count": 16,
+    "text_coverage": [
+      {
+        "page": 1,
+        "char_count": 90,
+        "has_text": true
+      },
+      {
+        "page": 2,
+        "char_count": 1090,
+        "has_text": true
+      },
+      {
+        "page": 3,
+        "char_count": 885,
+        "has_text": true
+      }
+    ]
+  },
+  {
+    "file": "2024_2차_원가회계_2-1+원가회계+문제(2024-2).pdf",
+    "has_text": true,
+    "text_quality": "medium",
+    "sample_text": "원가회계\n2/16 1교시\n【문제 1】(24점) ※ <자료 1>을 이용하여 (물음 1)∼(물음 3)에\n답하시오.\n㈜한국은 두 개의 보조부문(수선부문, 식당부문)과\n세 개의 제조부문(X부문, Y부문, Z부문)으로 구성되어 (물음 1) 상호배분법을 적용하여 보조부문의 원가를\n있다. 배분할 때, 각 제조부문에 배분되는 금액을 계산하시오.\n<자료 1> (답안양식)",
+    "page_count": 15,
+    "text_coverage": [
+      {
+        "page": 1,
+        "char_count": 901,
+        "has_text": true
+      },
+      {
+        "page": 2,
+        "char_count": 1226,
+        "has_text": true
+      },
+      {
+        "page": 3,
+        "char_count": 670,
+        "has_text": true
+      }
+    ]
+  },
+  {
+    "file": "2025_2차_원가회계_2-1+원가관리회계+문제(2025-2).pdf",
+    "has_text": true,
+    "text_quality": "high",
+    "sample_text": "원가관리회계\n2/16 1교시\n(3) 2공정\n※ 답안 작성 시 유의사항\n2공정에서 재료A는 공정 초에 전량 투입되고, 재료B는\n1. 답안은 반드시 문제 순서대로 작성하시오.\n공정의 75% 시점에서 전량 투입되며, 전환원가는\n공정 전반에 걸쳐서 발생한다. 재작업여부에 대한\n【문제 1】(25점) 검사는 공정의 50% 시점에서 실시하며, 불합격품은\n공정의 10%",
+    "page_count": 15,
+    "text_coverage": [
+      {
+        "page": 1,
+        "char_count": 1239,
+        "has_text": true
+      },
+      {
+        "page": 2,
+        "char_count": 334,
+        "has_text": true
+      },
+      {
+        "page": 3,
+        "char_count": 491,
+        "has_text": true
+      }
+    ]
+  }
+]

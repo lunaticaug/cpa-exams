@@ -1,0 +1,104 @@
+{
+  "file": "2022_2차_원가회계_(2022)2-1.+원가회계.pdf",
+  "timestamp": "2025-07-13T00:51:07.903087",
+  "pages": [
+    {
+      "page": 1,
+      "confidence": 0.7,
+      "method": "vision_primary",
+      "corrections": 0
+    },
+    {
+      "page": 2,
+      "confidence": 0.7,
+      "method": "vision_primary",
+      "corrections": 0
+    },
+    {
+      "page": 3,
+      "confidence": 0.7,
+      "method": "vision_primary",
+      "corrections": 0
+    },
+    {
+      "page": 4,
+      "confidence": 0.7,
+      "method": "vision_primary",
+      "corrections": 0
+    },
+    {
+      "page": 5,
+      "confidence": 0.7,
+      "method": "vision_primary",
+      "corrections": 7
+    },
+    {
+      "page": 6,
+      "confidence": 0.7,
+      "method": "vision_primary",
+      "corrections": 11
+    },
+    {
+      "page": 7,
+      "confidence": 0.7,
+      "method": "vision_primary",
+      "corrections": 14
+    },
+    {
+      "page": 8,
+      "confidence": 0.7,
+      "method": "vision_primary",
+      "corrections": 14
+    },
+    {
+      "page": 9,
+      "confidence": 0.85,
+      "method": "hybrid",
+      "corrections": 14
+    },
+    {
+      "page": 10,
+      "confidence": 0.7,
+      "method": "vision_primary",
+      "corrections": 14
+    },
+    {
+      "page": 11,
+      "confidence": 0.7,
+      "method": "vision_primary",
+      "corrections": 14
+    },
+    {
+      "page": 12,
+      "confidence": 0.7,
+      "method": "vision_primary",
+      "corrections": 14
+    },
+    {
+      "page": 13,
+      "confidence": 0.7,
+      "method": "vision_primary",
+      "corrections": 14
+    },
+    {
+      "page": 14,
+      "confidence": 0.7,
+      "method": "vision_primary",
+      "corrections": 14
+    },
+    {
+      "page": 15,
+      "confidence": 0.7,
+      "method": "vision_primary",
+      "corrections": 14
+    }
+  ],
+  "summary": {
+    "total_pages": 15,
+    "high_confidence_ratio": 0.0,
+    "medium_confidence_ratio": 1.0,
+    "low_confidence_ratio": 0.0,
+    "auto_corrections_applied": 0,
+    "average_confidence": 0.8
+  }
+}

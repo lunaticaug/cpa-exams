@@ -1,0 +1,155 @@
+{
+  "file": "2025_2차_원가회계_2-1+원가관리회계+문제(2025-2).pdf",
+  "year": "2025",
+  "timestamp": "2025-07-13T01:08:27.744089",
+  "pages": [
+    {
+      "page": 1,
+      "confidence": 0.5179767441860466,
+      "method": "vision_primary",
+      "has_vision": true,
+      "warnings": [
+        "Text layer와 Vision API 결과 차이가 큼"
+      ]
+    },
+    {
+      "page": 2,
+      "confidence": 0.661,
+      "method": "vision_primary",
+      "has_vision": true,
+      "warnings": [
+        "Text layer와 Vision API 결과 차이가 큼"
+      ]
+    },
+    {
+      "page": 3,
+      "confidence": 0.556,
+      "method": "vision_primary",
+      "has_vision": true,
+      "warnings": [
+        "Text layer와 Vision API 결과 차이가 큼"
+      ]
+    },
+    {
+      "page": 4,
+      "confidence": 0.7300000000000001,
+      "method": "vision_primary",
+      "has_vision": true,
+      "warnings": [
+        "Text layer와 Vision API 결과 차이가 큼"
+      ]
+    },
+    {
+      "page": 5,
+      "confidence": 0.7300000000000001,
+      "method": "vision_primary",
+      "has_vision": true,
+      "warnings": [
+        "Text layer와 Vision API 결과 차이가 큼"
+      ]
+    },
+    {
+      "page": 6,
+      "confidence": 0.601,
+      "method": "vision_primary",
+      "has_vision": true,
+      "warnings": [
+        "Text layer와 Vision API 결과 차이가 큼"
+      ]
+    },
+    {
+      "page": 7,
+      "confidence": 0.761,
+      "method": "vision_primary",
+      "has_vision": true,
+      "warnings": [
+        "Text layer와 Vision API 결과 차이가 큼"
+      ]
+    },
+    {
+      "page": 8,
+      "confidence": 0.7300000000000001,
+      "method": "vision_primary",
+      "has_vision": true,
+      "warnings": [
+        "Text layer와 Vision API 결과 차이가 큼"
+      ]
+    },
+    {
+      "page": 9,
+      "confidence": 0.9159999999999999,
+      "method": "hybrid",
+      "has_vision": true,
+      "warnings": []
+    },
+    {
+      "page": 10,
+      "confidence": 0.5340769230769231,
+      "method": "vision_primary",
+      "has_vision": true,
+      "warnings": [
+        "Text layer와 Vision API 결과 차이가 큼"
+      ]
+    },
+    {
+      "page": 11,
+      "confidence": 0.586,
+      "method": "vision_primary",
+      "has_vision": true,
+      "warnings": [
+        "Text layer와 Vision API 결과 차이가 큼"
+      ]
+    },
+    {
+      "page": 12,
+      "confidence": 0.98,
+      "method": "text_layer_primary",
+      "has_vision": true,
+      "warnings": []
+    },
+    {
+      "page": 13,
+      "confidence": 0.7000000000000001,
+      "method": "vision_primary",
+      "has_vision": true,
+      "warnings": [
+        "Text layer와 Vision API 결과 차이가 큼"
+      ]
+    },
+    {
+      "page": 14,
+      "confidence": 0.7000000000000001,
+      "method": "vision_primary",
+      "has_vision": true,
+      "warnings": [
+        "Text layer와 Vision API 결과 차이가 큼"
+      ]
+    },
+    {
+      "page": 15,
+      "confidence": 0.7000000000000001,
+      "method": "vision_primary",
+      "has_vision": true,
+      "warnings": [
+        "Text layer와 Vision API 결과 차이가 큼"
+      ]
+    }
+  ],
+  "detailed_stats": {
+    "total_pages": 15,
+    "average_confidence": 0.6935369111508647,
+    "min_confidence": 0.5179767441860466,
+    "max_confidence": 0.98,
+    "confidence_distribution": {
+      "high (>90%)": 2,
+      "medium (70-90%)": 7,
+      "low (<70%)": 6
+    },
+    "methods_used": {
+      "text_layer_primary": 1,
+      "hybrid": 1,
+      "vision_primary": 13
+    },
+    "auto_corrections": 0
+  }
+}

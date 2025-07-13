@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-07-13",
+  "context": {
+    "기초재공품": 3600,
+    "당기착수": 5000,
+    "당기완성": 3000,
+    "감손율": 0.2
+  },
+  "validation_result": {
+    "pdf_original": "846",
+    "vision_original": "8,463",
+    "selected_value": 3654,
+    "confidence": 0.9,
+    "reasoning": [
+      "양쪽 모두 합리적 - 평균값 사용"
+    ],
+    "corrections_attempted": [
+      {
+        "source": "pdf",
+        "original": 846,
+        "corrected": 3846,
+        "method": "3000 추가"
+      },
+      {
+        "source": "vision",
+        "original": 8463,
+        "corrected": 3463,
+        "method": "첫 자리 수정 (8→3)"
+      }
+    ],
+    "expected_range": {
+      "value": 3880.0,
+      "min": 3492.0,
+      "max": 4268.0
+    },
+    "scores": {
+      "pdf": 0.3,
+      "vision": 0.1
+    }
+  },
+  "conclusion": "선입견 없는 물량 균형 기반 검증으로 올바른 값 도출"
+}
