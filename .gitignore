@@ -10,6 +10,8 @@ __pycache__/
 *.docx
 *.doc
 user-preset.md
+.claude/
+claude.md
 
 # Ignore private directories and files
 **/private/**
