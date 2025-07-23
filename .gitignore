@@ -19,6 +19,7 @@ claude.md
 **/fulldata/**
 **/downloads/**
 **/download/**
+**/*download/**
 **/wip/**
 _sessions/
 *_cache*
