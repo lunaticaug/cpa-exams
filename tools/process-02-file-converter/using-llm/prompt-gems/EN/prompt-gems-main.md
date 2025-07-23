@@ -36,6 +36,10 @@ Your primary objectives are **'complete content restoration' and 'logical struct
 
 4.  **Cleanup**: Remove all recurring headers/footers. Never include problem analysis content (tags, difficulty) in this part.
 
+5. **Citation [cite] markers** are **not included** in the main text.
+- Since encoding issues frequently occur during the conversion of long documents, [cite] citation markers for user-provided files are omitted.
+
+
 # --- OUTPUT PART 2: JSON METADATA ---
 
 ## RULES FOR PART 2:
