@@ -7080,6 +7080,6699 @@
         "기회원가"
       ],
       "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-1",
+      "tags": [
+        "개념체계",
+        "재무보고",
+        "질적 특성",
+        "중요성",
+        "자본유지개념"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2019-2",
+      "tags": [
+        "현금흐름표",
+        "영업활동",
+        "법인세비용차감전순이익",
+        "간접법",
+        "영업에서 창출된 현금"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-3",
+      "tags": [
+        "투자부동산",
+        "원가모형",
+        "공정가치모형",
+        "회계정책의 변경",
+        "이익잉여금"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-4",
+      "tags": [
+        "주식기준보상",
+        "결제방식 선택권",
+        "현금결제형",
+        "주식결제형",
+        "주식보상비용"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2019-5",
+      "tags": [
+        "기말재고자산",
+        "선적지인도조건",
+        "수탁상품",
+        "재매입약정",
+        "위탁판매"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-6",
+      "tags": [
+        "재고자산",
+        "저가법",
+        "항목별기준",
+        "조별기준",
+        "매출원가"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-7",
+      "tags": [
+        "유형자산",
+        "재평가모형",
+        "감가상각",
+        "재평가잉여금",
+        "자본변동"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-8",
+      "tags": [
+        "차입원가 자본화",
+        "적격자산",
+        "특정차입금",
+        "일반차입금",
+        "연평균지출액"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2019-9",
+      "tags": [
+        "자산손상",
+        "손상차손",
+        "회수가능액",
+        "회계추정의 변경",
+        "손상차손누계액"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-10",
+      "tags": [
+        "무형자산",
+        "내부창출 무형자산",
+        "개발원가",
+        "취득원가",
+        "K-IFRS 제1038호"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2019-11",
+      "tags": [
+        "자본",
+        "자기주식",
+        "자기주식처분",
+        "자기주식소각",
+        "자본총계"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-12",
+      "tags": [
+        "금융자산",
+        "상각후원가",
+        "조건변경",
+        "계약상 현금흐름 변경",
+        "변경손익"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2019-13",
+      "tags": [
+        "금융자산",
+        "신용손상",
+        "손상차손환입",
+        "기대신용손실",
+        "상각후원가측정"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2019-14",
+      "tags": [
+        "금융상품",
+        "재분류",
+        "금융자산 제거",
+        "위험과 보상의 이전",
+        "K-IFRS 제1109호"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-15",
+      "tags": [
+        "신주인수권부사채",
+        "복합금융상품",
+        "자본요소",
+        "이자비용",
+        "신주인수권 행사"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2019-16",
+      "tags": [
+        "법인세회계",
+        "이연법인세",
+        "일시적차이",
+        "세무기준액",
+        "K-IFRS 제1012호"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-17",
+      "tags": [
+        "확정급여제도",
+        "순확정급여부채",
+        "사외적립자산",
+        "재측정요소",
+        "당기근무원가"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2019-18",
+      "tags": [
+        "주당이익",
+        "기본주당이익",
+        "가중평균유통보통주식수",
+        "희석성 잠재적보통주",
+        "K-IFRS 제1033호"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-19",
+      "tags": [
+        "사채",
+        "유효이자율",
+        "이자비용",
+        "상각표",
+        "역산"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-20",
+      "tags": [
+        "충당부채",
+        "복구충당부채",
+        "우발부채",
+        "최선의 추정치",
+        "인식요건"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-21",
+      "tags": [
+        "수익인식",
+        "K-IFRS 제1115호",
+        "수행의무",
+        "거래가격",
+        "계약변경"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2019-22",
+      "tags": [
+        "수익인식",
+        "계약변경",
+        "수행의무",
+        "거래가격",
+        "K-IFRS 제1115호"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-23",
+      "tags": [
+        "수익인식",
+        "계약자산",
+        "계약부채",
+        "수취채권",
+        "수행의무"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-24",
+      "tags": [
+        "리스회계",
+        "K-IFRS 제1116호",
+        "단기리스",
+        "소액기초자산리스",
+        "리스이용자"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2019-25",
+      "tags": [
+        "금융리스",
+        "리스제공자",
+        "리스이용자",
+        "내재이자율",
+        "당기순이익 영향"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2019-26",
+      "tags": [
+        "사업결합",
+        "K-IFRS 제1103호",
+        "사업의 정의",
+        "동일지배하의 결합",
+        "지배력 획득일"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2019-27",
+      "tags": [
+        "사업결합",
+        "자산의 일괄취득",
+        "영업권",
+        "염가매수차익",
+        "감가상각"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-28",
+      "tags": [
+        "별도재무제표",
+        "K-IFRS 제1027호",
+        "지분법",
+        "원가법",
+        "종속기업투자"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-29",
+      "tags": [
+        "지분법",
+        "관계기업투자",
+        "내부거래",
+        "미실현이익",
+        "투자주식 장부금액"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-30",
+      "tags": [
+        "지분법",
+        "관계기업투자",
+        "당기순이익 영향",
+        "내부거래",
+        "미실현이익 제거"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-31",
+      "tags": [
+        "연결회계",
+        "비지배지분",
+        "내부거래",
+        "상향판매",
+        "하향판매"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2019-32",
+      "tags": [
+        "연결회계",
+        "지배기업귀속순이익",
+        "비지배지분귀속순이익",
+        "내부거래",
+        "연결조정"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2019-33",
+      "tags": [
+        "연결회계",
+        "단계적 지배",
+        "손자회사",
+        "비지배지분귀속순이익",
+        "내부거래"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2019-34",
+      "tags": [
+        "연결회계",
+        "해외종속기업",
+        "기능통화",
+        "표시통화",
+        "영업권 환산"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2019-35",
+      "tags": [
+        "위험회피회계",
+        "현금흐름위험회피",
+        "공정가치위험회피",
+        "해외사업장순투자",
+        "K-IFRS 제1109호"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-36",
+      "tags": [
+        "정부회계",
+        "국가회계기준",
+        "사회기반시설",
+        "자산평가",
+        "부채평가"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2019-37",
+      "tags": [
+        "정부회계",
+        "국가회계기준",
+        "무형자산",
+        "재정운영표",
+        "보증충당부채"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2019-38",
+      "tags": [
+        "정부회계",
+        "국가회계기준",
+        "지방자치단체회계",
+        "자산분류",
+        "사용수익권"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2019-39",
+      "tags": [
+        "지방회계법",
+        "지방자치단체회계",
+        "발생주의",
+        "복식부기",
+        "내부통제"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2019-40",
+      "tags": [
+        "정부회계",
+        "재정운영표",
+        "순자산변동표",
+        "재정운영순원가",
+        "재정운영결과"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-41",
+      "tags": [
+        "원가회계",
+        "개별원가계산",
+        "정상원가",
+        "제조간접원가 배부차이",
+        "원가요소비례배부법"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-42",
+      "tags": [
+        "원가회계",
+        "결합원가",
+        "순실현가능가치법",
+        "부산물",
+        "추가공정"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-43",
+      "tags": [
+        "원가회계",
+        "전부원가계산",
+        "변동원가계산",
+        "영업이익 차이조정",
+        "고정제조간접원가"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-44",
+      "tags": [
+        "원가회계",
+        "표준종합원가계산",
+        "정상공손",
+        "비정상공손",
+        "완성품원가"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2019-45",
+      "tags": [
+        "원가회계",
+        "활동기준원가계산",
+        "작업준비원가",
+        "소비차이",
+        "능률차이"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-46",
+      "tags": [
+        "관리회계",
+        "특별주문",
+        "의사결정",
+        "기회원가",
+        "증분수익"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-47",
+      "tags": [
+        "관리회계",
+        "대체가격",
+        "사업부",
+        "이익중심점",
+        "제약자원"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2019-48",
+      "tags": [
+        "관리회계",
+        "대체가격",
+        "최소대체가격",
+        "기회원가",
+        "사업부 평가"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2019-49",
+      "tags": [
+        "관리회계",
+        "제약이론",
+        "TOC",
+        "불량품원가",
+        "처리량"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2019-50",
+      "tags": [
+        "관리회계",
+        "불확실성하의 의사결정",
+        "기대값",
+        "균등분포",
+        "기대영업이익"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2020-1",
+      "tags": [
+        "재고자산",
+        "저가법",
+        "확정판매계약",
+        "순실현가능가치",
+        "재고자산평가손실"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2020-2",
+      "tags": [
+        "투자부동산",
+        "K-IFRS1040",
+        "원가모형",
+        "공정가치모형",
+        "최초인식"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2020-3",
+      "tags": [
+        "차입원가",
+        "자본화",
+        "적격자산",
+        "특정차입금",
+        "일반차입금"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2020-4",
+      "tags": [
+        "유형자산",
+        "재평가모형",
+        "감가상각",
+        "재평가잉여금",
+        "공정가치"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2020-5",
+      "tags": [
+        "복구충당부채",
+        "유형자산",
+        "감가상각",
+        "금융원가",
+        "현재가치"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2020-6",
+      "tags": [
+        "유형자산",
+        "손상차손",
+        "손상차손환입",
+        "회수가능액",
+        "원가모형"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2020-7",
+      "tags": [
+        "판매후리스",
+        "사용권자산",
+        "리스부채",
+        "기계장치처분이익",
+        "K-IFRS1116"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2020-8",
+      "tags": [
+        "금융리스",
+        "리스료",
+        "사용권자산",
+        "리스부채",
+        "내재이자율"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2020-9",
+      "tags": [
+        "전환사채",
+        "조기상환",
+        "복합금융상품",
+        "상환손익",
+        "공정가치"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2020-10",
+      "tags": [
+        "전환사채",
+        "조건변경",
+        "조기전환유도",
+        "복합금융상품",
+        "자본"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2020-11",
+      "tags": [
+        "주당이익",
+        "희석주당이익",
+        "신주인수권부사채",
+        "유상증자",
+        "자기주식"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2020-12",
+      "tags": [
+        "FVOCI",
+        "금융자산",
+        "손상차손",
+        "신용손상",
+        "기타포괄손익"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2020-13",
+      "tags": [
+        "FVOCI",
+        "금융자산",
+        "자산처분",
+        "기타포괄손익",
+        "재분류조정"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2020-14",
+      "tags": [
+        "금융자산",
+        "제거",
+        "K-IFRS1109",
+        "위험과보상",
+        "지속적관여"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2020-15",
+      "tags": [
+        "종업원급여",
+        "확정급여제도",
+        "재측정요소",
+        "기타포괄손익",
+        "K-IFRS1019"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2020-16",
+      "tags": [
+        "법인세회계",
+        "이연법인세",
+        "세무기준액",
+        "일시적차이",
+        "K-IFRS1012"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2020-17",
+      "tags": [
+        "충당부채",
+        "우발부채",
+        "우발자산",
+        "인식요건",
+        "최선의추정치"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2020-18",
+      "tags": [
+        "자본변동표",
+        "이익잉여금",
+        "이익잉여금처분계산서",
+        "현금배당",
+        "주식배당"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2020-19",
+      "tags": [
+        "수익인식",
+        "고객충성제도",
+        "수행의무",
+        "거래가격배분",
+        "K-IFRS1115"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2020-20",
+      "tags": [
+        "수익인식",
+        "반품권",
+        "콜옵션",
+        "금융약정",
+        "K-IFRS1115"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2020-21",
+      "tags": [
+        "수익인식",
+        "K-IFRS1115",
+        "거래가격",
+        "변동대가",
+        "유의적인금융요소"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2020-22",
+      "tags": [
+        "주식기준보상",
+        "K-IFRS1102",
+        "주식결제형",
+        "현금결제형",
+        "복합금융상품"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2020-23",
+      "tags": [
+        "회계오류",
+        "오류수정",
+        "전기오류",
+        "이익잉여금",
+        "소급재작성"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2020-24",
+      "tags": [
+        "현금흐름표",
+        "영업활동현금흐름",
+        "간접법",
+        "법인세비용차감전순이익",
+        "운전자본조정"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2020-25",
+      "tags": [
+        "사업결합",
+        "흡수합병",
+        "영업권",
+        "취득법",
+        "공정가치"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2020-26",
+      "tags": [
+        "사업결합",
+        "감가상각",
+        "무형자산상각",
+        "잠정금액",
+        "원가모형"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2020-27",
+      "tags": [
+        "지분법",
+        "관계기업",
+        "하향거래",
+        "내부거래제거",
+        "해외사업장"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2020-28",
+      "tags": [
+        "지분법",
+        "관계기업투자",
+        "내부거래제거",
+        "투자차액",
+        "지분법이익"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2020-29",
+      "tags": [
+        "연결회계",
+        "지배기업귀속순이익",
+        "비지배지분귀속순이익",
+        "내부거래제거",
+        "하향거래"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2020-30",
+      "tags": [
+        "연결회계",
+        "비지배지분귀속순이익",
+        "내부거래제거",
+        "상향거래",
+        "유형자산"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2020-31",
+      "tags": [
+        "연결회계",
+        "비지배지분",
+        "지분율변동",
+        "유상증자",
+        "자본거래"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2020-32",
+      "tags": [
+        "연결회계",
+        "비지배지분",
+        "공정가치측정",
+        "영업권",
+        "투자차액"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2020-33",
+      "tags": [
+        "해외사업장",
+        "재무제표환산",
+        "기능통화",
+        "표시통화",
+        "해외사업환산손익"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2020-34",
+      "tags": [
+        "위험회피회계",
+        "파생상품",
+        "현금흐름위험회피",
+        "공정가치위험회피",
+        "확정계약"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2020-35",
+      "tags": [
+        "위험회피회계",
+        "현금흐름위험회피",
+        "선도계약",
+        "파생상품평가손익",
+        "예상거래"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2020-36",
+      "tags": [
+        "정부회계",
+        "국가회계기준",
+        "지방자치단체회계기준",
+        "주민편의시설",
+        "자산"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2020-37",
+      "tags": [
+        "정부회계",
+        "국가회계기준",
+        "부채",
+        "국채",
+        "퇴직급여충당부채"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2020-38",
+      "tags": [
+        "정부회계",
+        "지방자치단체회계기준",
+        "현재가치평가",
+        "회계정책변경",
+        "사회기반시설"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2020-39",
+      "tags": [
+        "정부회계",
+        "국가회계법",
+        "지방회계법",
+        "결산보고서",
+        "출납폐쇄"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2020-40",
+      "tags": [
+        "정부회계",
+        "재정운영표",
+        "재정운영결과",
+        "프로그램순원가",
+        "비배분수익"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-cost-management-2020-41",
+      "tags": [
+        "원가회계",
+        "종합원가계산",
+        "선입선출법",
+        "기초재공품원가",
+        "완성품환산량"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-cost-management-2020-42",
+      "tags": [
+        "원가회계",
+        "활동기준원가계산",
+        "ABC",
+        "제조간접원가",
+        "원가동인"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-cost-management-2020-43",
+      "tags": [
+        "원가회계",
+        "표준원가계산",
+        "원가차이분석",
+        "가격차이",
+        "능률차이"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-cost-management-2020-44",
+      "tags": [
+        "원가회계",
+        "전부원가계산",
+        "변동원가계산",
+        "초변동원가계산",
+        "영업이익차이"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-cost-management-2020-45",
+      "tags": [
+        "원가회계",
+        "원가추정",
+        "회귀분석",
+        "고저점법",
+        "공헌이익"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-cost-management-2020-46",
+      "tags": [
+        "원가회계",
+        "원가추정",
+        "회귀분석",
+        "고저점법",
+        "원가함수"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-cost-management-2020-47",
+      "tags": [
+        "원가회계",
+        "결합원가계산",
+        "균등이익률법",
+        "연산품",
+        "추가가공"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-cost-management-2020-48",
+      "tags": [
+        "원가회계",
+        "보조부문원가배분",
+        "상호배분법",
+        "연립방정식법",
+        "지원부문"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-cost-management-2020-49",
+      "tags": [
+        "원가회계",
+        "품질원가",
+        "예방원가",
+        "평가원가",
+        "실패원가"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-cost-management-2020-50",
+      "tags": [
+        "원가회계",
+        "종합원가계산",
+        "공손",
+        "정상공손",
+        "비정상공손"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2021-1",
+      "tags": [
+        "개념체계",
+        "측정기준",
+        "역사적원가",
+        "공정가치",
+        "현행가치"
+      ],
+      "difficulty": "low"
+    },
+    {
+      "question_id": "1r-accounting-2021-2",
+      "tags": [
+        "유형자산",
+        "자산교환",
+        "감가상각비",
+        "상업적실질",
+        "공정가치"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2021-3",
+      "tags": [
+        "유형자산",
+        "재평가모형",
+        "자산손상",
+        "당기비용",
+        "회수가능액"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2021-4",
+      "tags": [
+        "차입원가자본화",
+        "건설중인자산",
+        "특정차입금",
+        "일반차입금",
+        "연평균지출액"
+      ],
+      "difficulty": "high"
+    },
+    {
+      "question_id": "1r-accounting-2021-5",
+      "tags": [
+        "재고자산",
+        "K-IFRS1002호",
+        "단위원가",
+        "개별법",
+        "순실현가능가치"
+      ],
+      "difficulty": "low"
+    },
+    {
+      "question_id": "1r-accounting-2021-6",
+      "tags": [
+        "금융자산",
+        "사업모형변경",
+        "FVPL",
+        "AC금융자산",
+        "당기순이익"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2021-7",
+      "tags": [
+        "금융자산",
+        "AC금융자산",
+        "FVOCI",
+        "이자수익",
+        "기타포괄손익누계액"
+      ],
+      "difficulty": "high"
+    },
+    {
+      "question_id": "1r-accounting-2021-8",
+      "tags": [
+        "생물자산",
+        "낙농업",
+        "순공정가치",
+        "수확물",
+        "당기순이익"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2021-9",
+      "tags": [
+        "무형자산",
+        "K-IFRS1038호",
+        "개별취득",
+        "미래경제적효익",
+        "내부창출영업권"
+      ],
+      "difficulty": "low"
+    },
+    {
+      "question_id": "1r-accounting-2021-10",
+      "tags": [
+        "금융부채",
+        "사채발행",
+        "유효이자율",
+        "현재가치",
+        "사채발행금액"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2021-11",
+      "tags": [
+        "금융부채",
+        "사채",
+        "조기상환",
+        "사채상환손실",
+        "경과이자"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2021-12",
+      "tags": [
+        "종업원급여",
+        "확정급여제도",
+        "사외적립자산",
+        "순확정급여자산",
+        "기타포괄이익"
+      ],
+      "difficulty": "high"
+    },
+    {
+      "question_id": "1r-accounting-2021-13",
+      "tags": [
+        "주식기준보상",
+        "주가차액보상권",
+        "조건변경",
+        "공정가치",
+        "당기순이익"
+      ],
+      "difficulty": "high"
+    },
+    {
+      "question_id": "1r-accounting-2021-14",
+      "tags": [
+        "리스",
+        "K-IFRS1116호",
+        "리스이용자",
+        "리스부채",
+        "사용권자산"
+      ],
+      "difficulty": "low"
+    },
+    {
+      "question_id": "1r-accounting-2021-15",
+      "tags": [
+        "리스",
+        "사용권자산",
+        "감가상각비",
+        "리스변경",
+        "매수선택권"
+      ],
+      "difficulty": "high"
+    },
+    {
+      "question_id": "1r-accounting-2021-16",
+      "tags": [
+        "주당이익",
+        "희석주당이익",
+        "주식매입권",
+        "가중평균유통보통주식수",
+        "자기주식법"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2021-17",
+      "tags": [
+        "금융부채",
+        "상환우선주",
+        "유효이자율법",
+        "이자비용",
+        "공정가치"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2021-18",
+      "tags": [
+        "수익인식",
+        "하자보증",
+        "용역유형보증",
+        "개별판매가격",
+        "계약부채"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2021-19",
+      "tags": [
+        "수익인식",
+        "재매입약정",
+        "콜옵션",
+        "금융약정",
+        "리스"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2021-20",
+      "tags": [
+        "수익인식",
+        "K-IFRS1115호",
+        "고객과의계약",
+        "수행의무",
+        "거래가격"
+      ],
+      "difficulty": "low"
+    },
+    {
+      "question_id": "1r-accounting-2021-21",
+      "tags": [
+        "법인세회계",
+        "이연법인세",
+        "일시적차이",
+        "법인세비용",
+        "기타포괄손익"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2021-22",
+      "tags": [
+        "회계오류",
+        "오류수정",
+        "전기이월이익잉여금",
+        "당기순이익",
+        "재고자산오류"
+      ],
+      "difficulty": "high"
+    },
+    {
+      "question_id": "1r-accounting-2021-23",
+      "tags": [
+        "매각예정비유동자산",
+        "중단영업",
+        "K-IFRS1105호",
+        "처분자산집단",
+        "손상차손"
+      ],
+      "difficulty": "low"
+    },
+    {
+      "question_id": "1r-accounting-2021-24",
+      "tags": [
+        "현금흐름표",
+        "이자지급액",
+        "영업활동현금흐름",
+        "금융부채",
+        "미지급이자"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2021-25",
+      "tags": [
+        "사업결합",
+        "흡수합병",
+        "영업권",
+        "취득법",
+        "조건부대가"
+      ],
+      "difficulty": "high"
+    },
+    {
+      "question_id": "1r-accounting-2021-26",
+      "tags": [
+        "사업결합",
+        "측정기간",
+        "잠정금액",
+        "조건부대가",
+        "영업권"
+      ],
+      "difficulty": "high"
+    },
+    {
+      "question_id": "1r-accounting-2021-27",
+      "tags": [
+        "관계기업투자",
+        "지분법",
+        "유의적인영향력",
+        "K-IFRS1028호",
+        "공동기업"
+      ],
+      "difficulty": "low"
+    },
+    {
+      "question_id": "1r-accounting-2021-28",
+      "tags": [
+        "관계기업투자",
+        "지분법",
+        "투자차액",
+        "내부거래",
+        "투자주식"
+      ],
+      "difficulty": "high"
+    },
+    {
+      "question_id": "1r-accounting-2021-29",
+      "tags": [
+        "연결회계",
+        "비지배지분",
+        "비지배주주순이익",
+        "내부거래",
+        "투자차액상각"
+      ],
+      "difficulty": "high"
+    },
+    {
+      "question_id": "1r-accounting-2021-30",
+      "tags": [
+        "연결재무제표",
+        "K-IFRS1110호",
+        "지배력",
+        "투자기업",
+        "별도재무제표"
+      ],
+      "difficulty": "low"
+    },
+    {
+      "question_id": "1r-accounting-2021-31",
+      "tags": [
+        "연결회계",
+        "연결재무상태표",
+        "내부거래",
+        "재고자산",
+        "자산총액"
+      ],
+      "difficulty": "high"
+    },
+    {
+      "question_id": "1r-accounting-2021-32",
+      "tags": [
+        "연결회계",
+        "연결당기순이익",
+        "내부거래",
+        "미실현손익",
+        "상향판매"
+      ],
+      "difficulty": "high"
+    },
+    {
+      "question_id": "1r-accounting-2021-33",
+      "tags": [
+        "환율변동효과",
+        "외화환산",
+        "투자부동산",
+        "기능통화",
+        "당기순이익"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2021-34",
+      "tags": [
+        "위험회피회계",
+        "현금흐름위험회피",
+        "선도계약",
+        "파생상품",
+        "당기순이익"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2021-35",
+      "tags": [
+        "환율변동효과",
+        "K-IFRS1021호",
+        "용어정의",
+        "기능통화",
+        "표시통화"
+      ],
+      "difficulty": "low"
+    },
+    {
+      "question_id": "1r-accounting-2021-36",
+      "tags": [
+        "정부회계",
+        "국가회계기준",
+        "용어정의",
+        "연금충당부채",
+        "회수가능가액"
+      ],
+      "difficulty": "low"
+    },
+    {
+      "question_id": "1r-accounting-2021-37",
+      "tags": [
+        "정부회계",
+        "국가회계기준",
+        "사회기반시설",
+        "외화평가",
+        "금융리스"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2021-38",
+      "tags": [
+        "정부회계",
+        "지방회계법",
+        "결산",
+        "출납폐쇄",
+        "재무제표"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2021-39",
+      "tags": [
+        "정부회계",
+        "자산",
+        "취득원가",
+        "관리전환",
+        "무형자산"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2021-40",
+      "tags": [
+        "정부회계",
+        "재정운영표",
+        "재정운영순원가",
+        "재정운영결과",
+        "지방자치단체"
+      ],
+      "difficulty": "high"
+    },
+    {
+      "question_id": "1r-cost-management-2021-41",
+      "tags": [
+        "원가회계",
+        "재고자산",
+        "당기제품제조원가",
+        "매출원가",
+        "재공품"
+      ],
+      "difficulty": "low"
+    },
+    {
+      "question_id": "1r-cost-management-2021-42",
+      "tags": [
+        "개별원가계산",
+        "정상원가계산",
+        "제조간접원가",
+        "배부차이",
+        "비례배부법"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-cost-management-2021-43",
+      "tags": [
+        "종합원가계산",
+        "완성품환산량",
+        "평균법",
+        "선입선출법",
+        "기말재공품"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-cost-management-2021-44",
+      "tags": [
+        "CVP분석",
+        "손익분기점",
+        "영업레버리지",
+        "안전한계",
+        "공헌이익"
+      ],
+      "difficulty": "low"
+    },
+    {
+      "question_id": "1r-cost-management-2021-45",
+      "tags": [
+        "전부원가계산",
+        "변동원가계산",
+        "영업이익",
+        "기말재고",
+        "고정제조간접원가"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-cost-management-2021-46",
+      "tags": [
+        "표준원가계산",
+        "고정제조간접원가",
+        "소비차이",
+        "조업도차이",
+        "표준배부율"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-cost-management-2021-47",
+      "tags": [
+        "의사결정회계",
+        "기대값",
+        "확실성하의사결정",
+        "보험",
+        "기대현금흐름"
+      ],
+      "difficulty": "low"
+    },
+    {
+      "question_id": "1r-cost-management-2021-48",
+      "tags": [
+        "예산",
+        "재고예산",
+        "상품매입액",
+        "매출원가",
+        "매출총이익률"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-cost-management-2021-49",
+      "tags": [
+        "의사결정회계",
+        "자가제조또는구입",
+        "증분원가",
+        "기회원가",
+        "회피가능원가"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-cost-management-2021-50",
+      "tags": [
+        "원가관리회계",
+        "JIT",
+        "제약이론",
+        "품질원가",
+        "제품수명주기원가"
+      ],
+      "difficulty": "low"
+    },
+    {
+      "question_id": "1r-accounting-2022-1",
+      "tags": [
+        "재무제표 표시",
+        "K-IFRS 제1001호",
+        "계속기업",
+        "비용의 분류",
+        "비교정보"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2022-2",
+      "tags": [
+        "재고자산",
+        "계속기록법",
+        "평균법",
+        "재고자산평가손실",
+        "순실현가능가치"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2022-3",
+      "tags": [
+        "기말재고자산",
+        "수탁판매",
+        "위탁판매",
+        "선적지인도조건",
+        "재구매약정"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-4",
+      "tags": [
+        "중간재무보고",
+        "K-IFRS 제1034호",
+        "요약재무제표",
+        "추정의 변경",
+        "중요성"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2022-5",
+      "tags": [
+        "정부보조금",
+        "유형자산",
+        "원가차감법",
+        "감가상각",
+        "현재가치"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2022-6",
+      "tags": [
+        "유형자산",
+        "자산교환",
+        "상업적 실질",
+        "취득원가",
+        "공정가치"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2022-7",
+      "tags": [
+        "차입원가 자본화",
+        "적격자산",
+        "특정차입금",
+        "일반차입금",
+        "연평균지출액"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-8",
+      "tags": [
+        "무형자산",
+        "연구개발",
+        "손상차손",
+        "회수가능가액",
+        "자산상각"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2022-9",
+      "tags": [
+        "AC금융자산",
+        "사채",
+        "조기상환",
+        "처분손익",
+        "유효이자율법"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2022-10",
+      "tags": [
+        "AC금융자산",
+        "조건변경",
+        "현금흐름변경",
+        "변경손익",
+        "유효이자율"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-11",
+      "tags": [
+        "금융부채",
+        "사채",
+        "조건변경",
+        "조정손익",
+        "현재가치"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-12",
+      "tags": [
+        "금융부채",
+        "사채발행비",
+        "이자비용",
+        "유효이자율법",
+        "상각후원가"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2022-13",
+      "tags": [
+        "전환사채",
+        "복합금융상품",
+        "전환권",
+        "자본증가액",
+        "액면발행"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2022-14",
+      "tags": [
+        "전환사채",
+        "조기상환",
+        "상환손익",
+        "공정가치",
+        "당기순이익 영향"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-15",
+      "tags": [
+        "확정급여제도",
+        "순확정급여부채",
+        "당기근무원가",
+        "보험수리적손익",
+        "총포괄이익"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-16",
+      "tags": [
+        "기본주당이익",
+        "가중평균유통보통주식수",
+        "유상증자",
+        "전환사채",
+        "전환우선주"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-17",
+      "tags": [
+        "주식기준보상",
+        "K-IFRS 제1102호",
+        "주식결제형",
+        "현금결제형",
+        "공정가치"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2022-18",
+      "tags": [
+        "운용리스",
+        "리스제공자",
+        "리스이용자",
+        "당기순이익 영향",
+        "K-IFRS 제1116호"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-19",
+      "tags": [
+        "금융리스",
+        "제조자리스",
+        "매수선택권",
+        "당기순이익 영향",
+        "K-IFRS 제1116호"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-20",
+      "tags": [
+        "수익인식",
+        "K-IFRS 제1115호",
+        "수행의무",
+        "거래가격",
+        "통제 이전"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2022-21",
+      "tags": [
+        "수익인식",
+        "본인과 대리인",
+        "반품권",
+        "판매수수료",
+        "K-IFRS 제1115호"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-22",
+      "tags": [
+        "수익인식",
+        "비화폐성 대가",
+        "공정가치",
+        "고객에게 지급할 대가",
+        "K-IFRS 제1115호"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2022-23",
+      "tags": [
+        "법인세회계",
+        "K-IFRS 제1012호",
+        "이연법인세",
+        "일시적차이",
+        "복합금융상품"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2022-24",
+      "tags": [
+        "회계오류수정",
+        "재고자산 과대계상",
+        "이익잉여금",
+        "비교재무제표",
+        "전기오류"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2022-25",
+      "tags": [
+        "현금흐름표",
+        "매출액 추정",
+        "매출원가 추정",
+        "직접법",
+        "T-계정"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-26",
+      "tags": [
+        "사업결합",
+        "K-IFRS 제1103호",
+        "취득법",
+        "조건부 대가",
+        "다시 취득한 권리"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2022-27",
+      "tags": [
+        "자산손상",
+        "현금창출단위",
+        "영업권 손상",
+        "손상차손 배분",
+        "회수가능액"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-28",
+      "tags": [
+        "연결재무제표",
+        "비지배지분",
+        "내부거래 제거",
+        "투자차액",
+        "공정가치 평가"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-29",
+      "tags": [
+        "연결재무제표",
+        "지배기업순이익",
+        "내부거래 제거",
+        "상향판매",
+        "하향판매"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-30",
+      "tags": [
+        "지배력 상실",
+        "연결범위 변동",
+        "처분손익",
+        "관계기업투자",
+        "연결당기순이익"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-31",
+      "tags": [
+        "지분법",
+        "관계기업투자",
+        "내부미실현손익",
+        "지분법이익",
+        "유의적인 영향력"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2022-32",
+      "tags": [
+        "외화환산",
+        "기능통화",
+        "표시통화",
+        "환율변동효과",
+        "해외사업장"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-33",
+      "tags": [
+        "유형자산 처분",
+        "원가모형",
+        "재평가모형",
+        "외화자산",
+        "유형자산처분손익"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2022-34",
+      "tags": [
+        "위험회피회계",
+        "K-IFRS 제1109호",
+        "공정가치위험회피",
+        "위험회피수단",
+        "위험회피대상항목"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2022-35",
+      "tags": [
+        "위험회피회계",
+        "이자율스왑",
+        "공정가치위험회피",
+        "평가손익",
+        "파생상품"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-36",
+      "tags": [
+        "정부회계",
+        "국가재정법",
+        "국가회계법",
+        "국가결산보고서",
+        "중앙관서"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2022-37",
+      "tags": [
+        "정부회계",
+        "원가계산지침",
+        "행정형회계",
+        "사업형회계",
+        "프로그램순원가"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2022-38",
+      "tags": [
+        "정부회계",
+        "융자프로그램",
+        "융자보조원가충당금",
+        "유효이자율",
+        "현재가치"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2022-39",
+      "tags": [
+        "정부회계",
+        "국가회계기준",
+        "지방자치단체회계기준",
+        "순자산",
+        "관리전환"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2022-40",
+      "tags": [
+        "정부회계",
+        "지방자치단체회계",
+        "재정운영표",
+        "비교환거래",
+        "사업수익"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2022-41",
+      "tags": [
+        "원가계산",
+        "제조원가",
+        "기본원가",
+        "제조간접원가",
+        "노무원가"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2022-42",
+      "tags": [
+        "활동기준원가계산",
+        "ABC",
+        "원가동인",
+        "활동계층",
+        "묶음수준활동"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2022-43",
+      "tags": [
+        "정상원가계산",
+        "제조간접원가 배부차이",
+        "예정배부율",
+        "매출원가조정법",
+        "기본원가"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2022-44",
+      "tags": [
+        "종합원가계산",
+        "선입선출법",
+        "완성품환산량",
+        "공손",
+        "단위당원가"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-45",
+      "tags": [
+        "종합원가계산",
+        "완성품원가",
+        "정상공손",
+        "비정상공손",
+        "선입선출법"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-46",
+      "tags": [
+        "결합원가계산",
+        "균등매출총이익률법",
+        "추가가공원가",
+        "결합원가배분",
+        "결합제품"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2022-47",
+      "tags": [
+        "전부원가계산",
+        "변동원가계산",
+        "영업이익차이",
+        "고정제조간접원가",
+        "재고자산"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2022-48",
+      "tags": [
+        "CVP분석",
+        "손익분기점",
+        "영업레버리지도",
+        "매출배합",
+        "다품종"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-49",
+      "tags": [
+        "단기의사결정",
+        "특별주문",
+        "제한된 자원",
+        "공헌이익",
+        "기회비용"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2022-50",
+      "tags": [
+        "성과평가",
+        "차이분석",
+        "매출가격차이",
+        "시장점유율차이",
+        "시장규모차이"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2023-1",
+      "tags": [
+        "개념체계",
+        "인식",
+        "제거",
+        "목적적합성",
+        "충실한 표현"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2023-2",
+      "tags": [
+        "일반목적재무보고",
+        "주요이용자",
+        "경제적자원",
+        "청구권",
+        "재무성과"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2023-3",
+      "tags": [
+        "재고자산",
+        "계속기록법",
+        "가중평균법",
+        "매출원가",
+        "재고자산감모손실",
+        "재고자산평가손실"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2023-4",
+      "tags": [
+        "재고자산",
+        "순실현가능가치",
+        "저가법",
+        "농림어업",
+        "단위원가"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2023-5",
+      "tags": [
+        "유형자산",
+        "재평가모형",
+        "감가상각",
+        "공정가치",
+        "자본적지출"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2023-6",
+      "tags": [
+        "유형자산",
+        "원가모형",
+        "손상차손",
+        "손상차손환입",
+        "회수가능액"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2023-7",
+      "tags": [
+        "무형자산",
+        "인식",
+        "측정",
+        "사업결합",
+        "내부창출영업권"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2023-8",
+      "tags": [
+        "투자부동산",
+        "공정가치모형",
+        "유형자산",
+        "계정대체",
+        "당기순이익"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2023-9",
+      "tags": [
+        "차입원가",
+        "자본화",
+        "적격자산",
+        "특정차입금",
+        "일반차입금"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2023-10",
+      "tags": [
+        "FVOCI",
+        "금융자산",
+        "신용손상",
+        "손상차손",
+        "총포괄이익"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2023-11",
+      "tags": [
+        "AC금융자산",
+        "계약조건변경",
+        "현금흐름변경",
+        "이자수익",
+        "제거"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2023-12",
+      "tags": [
+        "AC금융부채",
+        "사채",
+        "조기상환",
+        "경과이자",
+        "당기순이익"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2023-13",
+      "tags": [
+        "종업원급여",
+        "확정급여제도",
+        "확정기여제도",
+        "재측정요소",
+        "기타포괄손익"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2023-14",
+      "tags": [
+        "확정급여제도",
+        "사외적립자산",
+        "확정급여채무",
+        "총포괄이익",
+        "보험수리적손익"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2023-15",
+      "tags": [
+        "자본",
+        "우선주",
+        "배당금",
+        "누적적",
+        "참가적"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2023-16",
+      "tags": [
+        "신주인수권부사채",
+        "복합금융상품",
+        "신주인수권대가",
+        "자본요소",
+        "상환할증금"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2023-17",
+      "tags": [
+        "신주인수권부사채",
+        "신주인수권행사",
+        "자본변동",
+        "주식발행초과금",
+        "자본"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2023-18",
+      "tags": [
+        "주식기준보상",
+        "주식선택권",
+        "시장성과조건",
+        "가득조건",
+        "보상원가"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2023-19",
+      "tags": [
+        "수익",
+        "상품권",
+        "고객충성제도",
+        "계약부채",
+        "미행사권리"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2023-20",
+      "tags": [
+        "수익",
+        "계약변경",
+        "구별되는 재화",
+        "거래가격배분",
+        "개별판매가격"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2023-21",
+      "tags": [
+        "리스",
+        "리스변경",
+        "사용권자산",
+        "연장선택권",
+        "증분차입이자율"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2023-22",
+      "tags": [
+        "금융리스",
+        "리스제공자",
+        "잔존가치보증",
+        "리스순투자",
+        "취득원가"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2023-23",
+      "tags": [
+        "법인세회계",
+        "이연법인세",
+        "일시적차이",
+        "세율변경",
+        "법인세비용"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2023-24",
+      "tags": [
+        "주당이익",
+        "희석주당이익",
+        "전환사채",
+        "잠재적보통주",
+        "가중평균유통보통주식수"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2023-25",
+      "tags": [
+        "현금흐름표",
+        "간접법",
+        "영업활동현금흐름",
+        "당기순이익",
+        "비현금거래"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2023-26",
+      "tags": [
+        "사업결합",
+        "단계적취득",
+        "영업권",
+        "이전대가",
+        "식별가능순자산"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2023-27",
+      "tags": [
+        "사업결합",
+        "취득관련원가",
+        "우발부채",
+        "정산손익",
+        "당기순이익"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2023-28",
+      "tags": [
+        "지분법",
+        "관계기업투자",
+        "현물출자",
+        "상업적실질",
+        "내부거래"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2023-29",
+      "tags": [
+        "지분법",
+        "관계기업",
+        "상향거래",
+        "자본거래",
+        "누적적우선주"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2023-30",
+      "tags": [
+        "연결회계",
+        "내부거래",
+        "하향판매",
+        "미실현이익",
+        "지배기업순이익"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2023-31",
+      "tags": [
+        "연결회계",
+        "사업결합",
+        "영업권",
+        "법인세효과",
+        "이연법인세"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2023-32",
+      "tags": [
+        "연결회계",
+        "비지배지분순이익",
+        "내부거래",
+        "상향판매",
+        "법인세효과"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2023-33",
+      "tags": [
+        "위험회피회계",
+        "금융상품",
+        "위험회피수단",
+        "위험회피대상항목",
+        "확정계약"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2023-34",
+      "tags": [
+        "위험회피회계",
+        "현금흐름위험회피",
+        "선도계약",
+        "예상거래",
+        "파생상품"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2023-35",
+      "tags": [
+        "환율변동효과",
+        "기능통화",
+        "해외사업장",
+        "초인플레이션",
+        "외환차이"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2023-36",
+      "tags": [
+        "정부회계",
+        "국가회계기준",
+        "충당부채",
+        "연금충당부채",
+        "보험충당부채"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2023-37",
+      "tags": [
+        "정부회계",
+        "지방자치단체회계기준",
+        "순자산변동표",
+        "회계정책변경",
+        "비교환거래"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2023-38",
+      "tags": [
+        "정부회계",
+        "지방자치단체회계기준",
+        "재무제표작성",
+        "비망계정",
+        "사회기반시설"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2023-39",
+      "tags": [
+        "정부회계",
+        "민자사업",
+        "BTO",
+        "BTL",
+        "사회기반시설"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2023-40",
+      "tags": [
+        "정부회계",
+        "중앙관서",
+        "재정상태표",
+        "순자산",
+        "내부거래"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-cost-management-2023-41",
+      "tags": [
+        "원가배분",
+        "보조부문원가",
+        "상호배분법",
+        "제조간접원가",
+        "단위당원가"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-cost-management-2023-42",
+      "tags": [
+        "정상원가계산",
+        "제조간접원가",
+        "예정배부",
+        "배부차이",
+        "매출원가조정법"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-cost-management-2023-43",
+      "tags": [
+        "종합원가계산",
+        "선입선출법",
+        "공손",
+        "정상공손",
+        "비정상공손"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-cost-management-2023-44",
+      "tags": [
+        "변동원가계산",
+        "초변동원가계산",
+        "영업이익차이",
+        "고정제조간접원가",
+        "직접재료원가"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-cost-management-2023-45",
+      "tags": [
+        "성과평가",
+        "투자중심점",
+        "잔여이익",
+        "경제적부가가치",
+        "EVA"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-cost-management-2023-46",
+      "tags": [
+        "전부원가계산",
+        "CVP분석",
+        "손익분기점",
+        "고정제조간접원가",
+        "재고변동"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-cost-management-2023-47",
+      "tags": [
+        "특별의사결정",
+        "자가제조또는구입",
+        "보조부문",
+        "관련원가",
+        "기회원가"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-cost-management-2023-48",
+      "tags": [
+        "불확실성하의의사결정",
+        "기대치가준",
+        "완전정보의가치",
+        "EVPI",
+        "예측오차원가"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-cost-management-2023-49",
+      "tags": [
+        "표준원가계산",
+        "변동제조간접원가",
+        "활동기준원가계산",
+        "소비차이",
+        "능률차이"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-cost-management-2023-50",
+      "tags": [
+        "예산",
+        "성과평가",
+        "균형성과표",
+        "참여예산",
+        "종합예산"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2024-1",
+      "tags": [
+        "개념체계",
+        "보고기업",
+        "주요이용자",
+        "질적특성",
+        "계속기업"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2024-2",
+      "tags": [
+        "재고자산",
+        "계속기록법",
+        "평균법",
+        "매출총이익",
+        "순실현가능가치"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2024-3",
+      "tags": [
+        "차입원가",
+        "자본화",
+        "적격자산",
+        "연평균지출액",
+        "정부보조금"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2024-4",
+      "tags": [
+        "유형자산",
+        "재평가모형",
+        "감가상각",
+        "추정의변경",
+        "당기순이익"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2024-5",
+      "tags": [
+        "무형자산",
+        "연구단계",
+        "개발단계",
+        "미래경제적효익",
+        "사업결합"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2024-6",
+      "tags": [
+        "투자부동산",
+        "공정가치모형",
+        "원가모형",
+        "부수적용역",
+        "자가사용부동산"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2024-7",
+      "tags": [
+        "투자부동산",
+        "회계정책변경",
+        "공정가치모형",
+        "원가모형",
+        "이익잉여금"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2024-8",
+      "tags": [
+        "금융상품",
+        "금융자산제거",
+        "사업모형",
+        "기대신용손실",
+        "재분류"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2024-9",
+      "tags": [
+        "FVPL",
+        "FVOCI",
+        "금융자산",
+        "당기순이익",
+        "공정가치"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2024-10",
+      "tags": [
+        "사채",
+        "금융부채",
+        "조건변경",
+        "상각후원가",
+        "현재가치"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2024-11",
+      "tags": [
+        "전환사채",
+        "복합금융상품",
+        "전환권대가",
+        "주식발행초과금",
+        "장부금액"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2024-12",
+      "tags": [
+        "신주인수권부사채",
+        "비분리형",
+        "신주인수권대가",
+        "주식발행초과금",
+        "권리행사"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2024-13",
+      "tags": [
+        "제품보증충당부채",
+        "확신유형보증",
+        "충당부채",
+        "품질보증비",
+        "추정"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2024-14",
+      "tags": [
+        "법인세회계",
+        "이연법인세",
+        "세무조정",
+        "일시적차이",
+        "법인세비용"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2024-15",
+      "tags": [
+        "회계오류수정",
+        "전기이월이익잉여금",
+        "당기순이익",
+        "재고자산누락",
+        "감가상각오류"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2024-16",
+      "tags": [
+        "수익인식",
+        "고객과의계약",
+        "계약변경",
+        "개별판매가격",
+        "용역제공"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2024-17",
+      "tags": [
+        "건설계약",
+        "진행기준",
+        "투입법",
+        "공사손익",
+        "추가소요원가"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2024-18",
+      "tags": [
+        "종업원급여",
+        "확정급여제도",
+        "재측정요소",
+        "순확정급여부채",
+        "예측단위적립방식"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2024-19",
+      "tags": [
+        "주식기준보상",
+        "주식결제형",
+        "현금결제형",
+        "가득조건",
+        "공정가치"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2024-20",
+      "tags": [
+        "주식기준보상",
+        "주식선택권",
+        "중도청산",
+        "당기순이익",
+        "공정가치"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2024-21",
+      "tags": [
+        "리스회계",
+        "금융리스",
+        "운용리스",
+        "사용권자산",
+        "리스부채"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2024-22",
+      "tags": [
+        "금융리스",
+        "리스부채",
+        "내재이자율",
+        "현재가치",
+        "리스개설직접원가"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2024-23",
+      "tags": [
+        "주당이익",
+        "희석주당이익",
+        "기본주당이익",
+        "잠재적보통주",
+        "무상증자"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2024-24",
+      "tags": [
+        "희석주당이익",
+        "가중평균유통보통주식수",
+        "조건부발행보통주",
+        "사업결합",
+        "월할계산"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2024-25",
+      "tags": [
+        "현금흐름표",
+        "간접법",
+        "공급자에대한현금유출",
+        "매출원가",
+        "재고자산"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2024-26",
+      "tags": [
+        "사업결합",
+        "흡수합병",
+        "영업권",
+        "매각예정비유동자산",
+        "이전대가"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2024-27",
+      "tags": [
+        "사업결합",
+        "역취득",
+        "우발부채",
+        "이전대가",
+        "피취득자"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2024-28",
+      "tags": [
+        "지분법",
+        "관계기업투자",
+        "유의적인영향력",
+        "내부거래",
+        "기타포괄손실"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2024-29",
+      "tags": [
+        "공동약정",
+        "공동지배력",
+        "공동영업",
+        "공동기업",
+        "순자산"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2024-30",
+      "tags": [
+        "연결재무제표",
+        "지배력",
+        "비지배지분",
+        "지배력상실",
+        "총포괄손익"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2024-31",
+      "tags": [
+        "연결회계",
+        "비지배지분",
+        "내부거래",
+        "재고자산",
+        "유형자산"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2024-32",
+      "tags": [
+        "연결회계",
+        "지배기업소유주귀속당기순이익",
+        "내부거래미실현손익",
+        "연결조정",
+        "비지배지분손익"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2024-33",
+      "tags": [
+        "환율변동효과",
+        "기능통화",
+        "표시통화",
+        "총포괄이익",
+        "외화환산"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2024-34",
+      "tags": [
+        "환율변동효과",
+        "해외사업장",
+        "기능통화변경",
+        "외환차이",
+        "내부거래"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2024-35",
+      "tags": [
+        "위험회피회계",
+        "공정가치위험회피",
+        "확정계약",
+        "통화선도",
+        "환율변동"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2024-36",
+      "tags": [
+        "정부회계",
+        "국가회계예규",
+        "금융자산",
+        "금융부채",
+        "취득원가"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2024-37",
+      "tags": [
+        "정부회계",
+        "국가회계기준",
+        "지방자치단체회계기준",
+        "수익",
+        "비용"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2024-38",
+      "tags": [
+        "정부회계",
+        "국고금회계",
+        "내부거래제거",
+        "통합재무제표",
+        "중앙관서"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2024-39",
+      "tags": [
+        "지방회계법",
+        "결산서",
+        "출납사무",
+        "재무제표",
+        "성인지결산서"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2024-40",
+      "tags": [
+        "정부회계",
+        "순자산변동표",
+        "기말순자산",
+        "재정운영결과",
+        "국고수입"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-cost-management-2024-41",
+      "tags": [
+        "원가분류",
+        "기본원가",
+        "제조간접원가",
+        "당기총제조원가",
+        "당기제품제조원가"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-cost-management-2024-42",
+      "tags": [
+        "정상원가계산",
+        "개별원가계산",
+        "제조간접원가배부차이",
+        "비례배부법",
+        "매출총이익"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-cost-management-2024-43",
+      "tags": [
+        "종합원가계산",
+        "선입선출법",
+        "완성품환산량",
+        "전환원가",
+        "기초재공품"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-cost-management-2024-44",
+      "tags": [
+        "보조부문원가배분",
+        "단계배분법",
+        "제조간접원가",
+        "제품제조원가",
+        "직접노무원가"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-cost-management-2024-45",
+      "tags": [
+        "표준원가계산",
+        "능률차이",
+        "조업도차이",
+        "제조간접원가",
+        "직접노무원가"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-cost-management-2024-46",
+      "tags": [
+        "전부원가계산",
+        "변동원가계산",
+        "순이익차이",
+        "고정제조간접원가",
+        "기말재고"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-cost-management-2024-47",
+      "tags": [
+        "학습곡선",
+        "누적평균시간학습모형",
+        "학습률",
+        "직접노무시간",
+        "예상원가"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-cost-management-2024-48",
+      "tags": [
+        "CVP분석",
+        "손익분기점",
+        "공헌이익",
+        "영업레버리지도",
+        "안전한계율"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-cost-management-2024-49",
+      "tags": [
+        "제약요인하의의사결정",
+        "제한된자원",
+        "공헌이익",
+        "최대이익",
+        "시장수요량"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-cost-management-2024-50",
+      "tags": [
+        "대체가격",
+        "이익중심점",
+        "최소대체가격",
+        "기회원가",
+        "변동원가"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2025-1",
+      "tags": [
+        "재무제표 표시",
+        "K-IFRS 1001호",
+        "유동성 분류",
+        "비유동부채",
+        "이연법인세"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-2",
+      "tags": [
+        "재고자산",
+        "담보제공",
+        "콜옵션",
+        "선적지인도조건",
+        "시송품"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-3",
+      "tags": [
+        "재고자산",
+        "저가법",
+        "감모손실",
+        "평가손실",
+        "매출원가"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-4",
+      "tags": [
+        "유형자산",
+        "재평가모형",
+        "감가상각",
+        "재평가잉여금",
+        "기타포괄이익"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-5",
+      "tags": [
+        "유형자산",
+        "일괄취득",
+        "현재가치",
+        "감가상각",
+        "장기할부"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-6",
+      "tags": [
+        "투자부동산",
+        "계정대체",
+        "공정가치모형",
+        "원가모형",
+        "유형자산"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-7",
+      "tags": [
+        "정부보조금",
+        "설비자산",
+        "시장이자율",
+        "자산차감법",
+        "장부금액"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-8",
+      "tags": [
+        "차입원가 자본화",
+        "적격자산",
+        "특정차입금",
+        "일반차입금",
+        "자본화이자율"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-9",
+      "tags": [
+        "개념체계",
+        "재무보고",
+        "측정기준",
+        "사용가치",
+        "일반목적재무보고서"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-10",
+      "tags": [
+        "무형자산",
+        "K-IFRS 1038호",
+        "통제",
+        "내용연수",
+        "정부보조"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-11",
+      "tags": [
+        "자본변동",
+        "이익잉여금",
+        "FVOCI",
+        "재평가잉여금",
+        "총포괄이익"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-12",
+      "tags": [
+        "받을어음",
+        "어음할인",
+        "매각거래",
+        "위험과 보상",
+        "당기순이익"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-13",
+      "tags": [
+        "FVOCI 금융자산",
+        "사채",
+        "공정가치",
+        "이자수익",
+        "평가손익"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-14",
+      "tags": [
+        "사채",
+        "상각후원가측정",
+        "조기상환",
+        "유효이자율법",
+        "금융부채"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-15",
+      "tags": [
+        "전환사채",
+        "전환권대가",
+        "복합금융상품",
+        "이자비용",
+        "자본"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-16",
+      "tags": [
+        "종업원급여",
+        "유급병가",
+        "누적유급휴가",
+        "충당부채",
+        "후입선출법"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-17",
+      "tags": [
+        "주식기준보상",
+        "주식선택권",
+        "내재가치",
+        "공정가치 추정불가",
+        "용역제공조건"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-18",
+      "tags": [
+        "리스",
+        "사용권자산",
+        "잔존가치보증",
+        "증분차입이자율",
+        "원가모형"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-19",
+      "tags": [
+        "법인세회계",
+        "이연법인세",
+        "세무조정",
+        "일시적차이",
+        "총포괄이익"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-20",
+      "tags": [
+        "회계정책 변경",
+        "재고자산",
+        "선입선출법",
+        "가중평균법",
+        "소급적용"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-21",
+      "tags": [
+        "수익인식",
+        "K-IFRS 1115호",
+        "수행의무",
+        "변동대가",
+        "판매기준로열티"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-22",
+      "tags": [
+        "수익인식",
+        "K-IFRS 1115호",
+        "거래가격 배분",
+        "개별판매가격",
+        "유지보수용역"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-23",
+      "tags": [
+        "보고기간후사건",
+        "K-IFRS 1010호",
+        "수정을 요하는 사건",
+        "발행승인일",
+        "배당"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-24",
+      "tags": [
+        "주당이익",
+        "희석주당이익",
+        "신주인수권",
+        "유상증자",
+        "가중평균유통보통주식수"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-25",
+      "tags": [
+        "현금흐름표",
+        "간접법",
+        "영업활동현금흐름",
+        "당기순이익 조정",
+        "비현금거래"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-26",
+      "tags": [
+        "관계기업",
+        "공동기업",
+        "K-IFRS 1028호",
+        "지분법",
+        "유의적인 영향력"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-27",
+      "tags": [
+        "지분법",
+        "관계기업 투자",
+        "투자차액",
+        "내부거래 미실현손익",
+        "지분법손실"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-28",
+      "tags": [
+        "연결회계",
+        "비지배지분",
+        "내부거래",
+        "재고자산",
+        "연결재무상태표"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-29",
+      "tags": [
+        "연결회계",
+        "지배기업귀속순이익",
+        "내부거래",
+        "상향거래",
+        "하향거래"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-30",
+      "tags": [
+        "연결회계",
+        "지배력 획득",
+        "비지배지분",
+        "공정가치 측정",
+        "투자차액"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-31",
+      "tags": [
+        "사업결합",
+        "흡수합병",
+        "영업권",
+        "이전대가",
+        "식별가능순자산"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-32",
+      "tags": [
+        "사업결합",
+        "측정기간 조정",
+        "잠정금액",
+        "조건부대가",
+        "영업권"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-33",
+      "tags": [
+        "외화환산",
+        "기능통화",
+        "마감환율",
+        "화폐성항목",
+        "비화폐성항목"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-34",
+      "tags": [
+        "위험회피회계",
+        "공정가치위험회피",
+        "현금흐름위험회피",
+        "통화선도",
+        "확정계약"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-35",
+      "tags": [
+        "위험회피회계",
+        "K-IFRS 1109호",
+        "위험회피효과",
+        "재조정",
+        "해외사업장순투자"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-36",
+      "tags": [
+        "정부회계",
+        "국가회계기준",
+        "금융자산",
+        "유산자산",
+        "수익 분류"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-37",
+      "tags": [
+        "정부회계",
+        "자산평가",
+        "부채평가",
+        "연금충당부채",
+        "순자산조정"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-38",
+      "tags": [
+        "정부회계",
+        "재정운영표",
+        "지방자치단체회계",
+        "국가회계",
+        "성질별 분류"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-39",
+      "tags": [
+        "정부회계",
+        "지방자치단체회계기준",
+        "사회기반시설",
+        "순자산변동표",
+        "금융리스"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-40",
+      "tags": [
+        "정부회계",
+        "현금흐름표",
+        "운영활동",
+        "국고수입",
+        "중앙관서"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-41",
+      "tags": [
+        "원가회계",
+        "정상개별원가계산",
+        "제조간접원가 배부차이",
+        "당기제품제조원가",
+        "기초재공품"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-42",
+      "tags": [
+        "원가회계",
+        "결합원가",
+        "순실현가치법",
+        "분리점",
+        "추가가공원가"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-43",
+      "tags": [
+        "원가회계",
+        "매출차이분석",
+        "매출배합차이",
+        "매출수량차이",
+        "공헌이익"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-44",
+      "tags": [
+        "원가회계",
+        "전부원가계산",
+        "변동원가계산",
+        "영업이익차이",
+        "고정제조간접원가"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-45",
+      "tags": [
+        "원가회계",
+        "CVP분석",
+        "손익분기점",
+        "구간별 판매가격",
+        "고정비"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-46",
+      "tags": [
+        "원가회계",
+        "현금예산",
+        "현금유입액",
+        "현금유출액",
+        "재고정책"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-47",
+      "tags": [
+        "원가회계",
+        "특별주문",
+        "의사결정",
+        "기회원가",
+        "증분수익"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-48",
+      "tags": [
+        "원가회계",
+        "표준원가계산",
+        "조업도차이",
+        "임률차이",
+        "고정제조간접원가"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-49",
+      "tags": [
+        "원가회계",
+        "내부대체가격",
+        "이익중심점",
+        "기회비용",
+        "최소대체가격"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1r-accounting-2025-50",
+      "tags": [
+        "원가회계",
+        "품질원가",
+        "예방원가",
+        "평가원가",
+        "실패원가"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "2r-accounting-2024-1",
+      "tags": [
+        "재고자산",
+        "매출액",
+        "반품",
+        "재매입약정",
+        "확정계약손실"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2024-2",
+      "tags": [
+        "무형자산",
+        "특허권",
+        "고객목록",
+        "소프트웨어",
+        "내부창출브랜드"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2024-3",
+      "tags": [
+        "금융자산",
+        "상각후원가측정금융자산",
+        "재분류",
+        "기대신용손실",
+        "전환사채"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2024-4",
+      "tags": [
+        "자본",
+        "누적적우선주",
+        "부분참가적우선주",
+        "자기주식",
+        "무상증자"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2024-5",
+      "tags": [
+        "금융부채",
+        "사채",
+        "자기사채",
+        "출자전환",
+        "공매도"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2024-6",
+      "tags": [
+        "확정급여제도",
+        "순확정급여부채",
+        "정산",
+        "제도개정",
+        "구조조정충당부채"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2024-7",
+      "tags": [
+        "수익",
+        "갱신선택권",
+        "중요한권리",
+        "유의적인금융요소",
+        "재매입약정"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2024-8",
+      "tags": [
+        "리스",
+        "리스변경",
+        "사용권자산",
+        "리스부채",
+        "증분차입이자율"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2024-9",
+      "tags": [
+        "사업결합",
+        "이전대가",
+        "영업권",
+        "조건부대가",
+        "우발부채"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2024-10",
+      "tags": [
+        "연결회계",
+        "단계적취득",
+        "내부거래",
+        "비지배지분",
+        "상향거래"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2024-11",
+      "tags": [
+        "지분법",
+        "관계기업투자주식",
+        "단계적취득",
+        "내부거래미실현손익",
+        "장기투자지분"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2024-12",
+      "tags": [
+        "위험회피회계",
+        "통화선도",
+        "공정가치위험회피",
+        "현금흐름위험회피",
+        "해외사업장순투자의위험회피"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2023-1",
+      "tags": [
+        "생물자산",
+        "농림어업",
+        "공정가치",
+        "정부보조금",
+        "원가모형"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "2r-accounting-2023-2",
+      "tags": [
+        "유형자산",
+        "정부보조금",
+        "복구충당부채",
+        "감가상각",
+        "원가모형"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "2r-accounting-2023-3",
+      "tags": [
+        "법인세회계",
+        "이연법인세",
+        "일시적차이",
+        "전환사채",
+        "FVOCI"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "2r-accounting-2023-4",
+      "tags": [
+        "자본",
+        "우선주",
+        "배당금",
+        "확정급여제도",
+        "부채비율"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "2r-accounting-2023-5",
+      "tags": [
+        "주당이익",
+        "기본주당이익",
+        "희석주당이익",
+        "신주인수권부사채",
+        "전환사채"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "2r-accounting-2023-6",
+      "tags": [
+        "리스회계",
+        "판매후리스",
+        "사용권자산",
+        "리스변경",
+        "회계오류"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "2r-accounting-2023-7",
+      "tags": [
+        "금융자산",
+        "제거요건",
+        "받을어음할인",
+        "현금흐름 수취 목적",
+        "SPPI"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "2r-accounting-2023-8",
+      "tags": [
+        "현금흐름표",
+        "직접법",
+        "영업활동",
+        "투자활동",
+        "재무활동"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "2r-accounting-2023-9",
+      "tags": [
+        "연결재무제표",
+        "지배력",
+        "내부거래",
+        "비지배지분",
+        "연결조정"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "2r-accounting-2023-10",
+      "tags": [
+        "지분법",
+        "관계기업투자",
+        "유의적인 영향력",
+        "내부거래",
+        "투자제거"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "2r-accounting-2023-11",
+      "tags": [
+        "사업결합",
+        "흡수합병",
+        "영업권",
+        "단계적취득",
+        "이전대가"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "2r-accounting-2023-12",
+      "tags": [
+        "위험회피회계",
+        "현금흐름위험회피",
+        "선도계약",
+        "기타포괄손익",
+        "위험회피효과"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "2r-accounting-2023-13",
+      "tags": [
+        "FVOCI",
+        "외화환산",
+        "기능통화",
+        "환율변동효과",
+        "이자수익"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "2r-accounting-2022-1",
+      "tags": [
+        "금융자산",
+        "상각후원가",
+        "신용손상",
+        "사업모형변경",
+        "공정가치"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "2r-accounting-2022-2",
+      "tags": [
+        "재고자산",
+        "소매재고법",
+        "저가법",
+        "재고자산평가손실",
+        "확정판매계약"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "2r-accounting-2022-3",
+      "tags": [
+        "차입원가",
+        "자본화",
+        "적격자산",
+        "특정차입금",
+        "일반차입금"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "2r-accounting-2022-4",
+      "tags": [
+        "금융부채",
+        "사채",
+        "오류수정",
+        "유효이자율법",
+        "실질적조건변경"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "2r-accounting-2022-5",
+      "tags": [
+        "복합금융상품",
+        "전환사채",
+        "신주인수권부사채",
+        "연속상환사채",
+        "부채비율"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "2r-accounting-2022-6",
+      "tags": [
+        "자본",
+        "무상증자",
+        "유상증자",
+        "전환우선주",
+        "현금배당"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "2r-accounting-2022-7",
+      "tags": [
+        "주식기준보상",
+        "현금결제선택권",
+        "주식선택권",
+        "중도청산",
+        "보상비용"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "2r-accounting-2022-8",
+      "tags": [
+        "법인세회계",
+        "이연법인세",
+        "일시적차이",
+        "세율변경",
+        "재평가잉여금"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "2r-accounting-2022-9",
+      "tags": [
+        "연결재무제표",
+        "지배력",
+        "내부거래",
+        "미실현이익",
+        "비지배지분"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "2r-accounting-2022-10",
+      "tags": [
+        "사업결합",
+        "역취득",
+        "영업권",
+        "연결주당이익",
+        "공정가치"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "2r-accounting-2022-11",
+      "tags": [
+        "환율변동효과",
+        "통화선도계약",
+        "위험회피회계",
+        "기능통화",
+        "표시통화"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "2r-accounting-2022-12",
+      "tags": [
+        "지분법",
+        "관계기업투자",
+        "유의적인 영향력",
+        "영업권",
+        "내부거래미실현손익"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "2r-accounting-2020-q1",
+      "tags": [
+        "수익인식",
+        "라이선스",
+        "수행의무",
+        "고객충성제도",
+        "변동대가"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2020-q2",
+      "tags": [
+        "무형자산",
+        "개발비",
+        "재평가모형",
+        "손상차손",
+        "정부보조금"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2020-q3",
+      "tags": [
+        "복합금융상품",
+        "신주인수권부사채",
+        "전환사채",
+        "자본",
+        "이자비용"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2020-q4",
+      "tags": [
+        "금융자산",
+        "FVOCI",
+        "재분류",
+        "내재파생상품",
+        "지분상품"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2020-q5",
+      "tags": [
+        "리스",
+        "리스변경",
+        "사용권자산",
+        "리스부채",
+        "전대리스"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2020-q6",
+      "tags": [
+        "주식기준보상",
+        "주식선택권",
+        "조건변경",
+        "보상비용",
+        "자본"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2020-q7",
+      "tags": [
+        "자본변동",
+        "배당",
+        "자기주식",
+        "무상증자",
+        "회계정책변경"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2020-q8",
+      "tags": [
+        "현금흐름표",
+        "간접법",
+        "영업활동",
+        "투자활동",
+        "재무활동"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2020-q9",
+      "tags": [
+        "위험회피회계",
+        "이자율스왑",
+        "통화선도",
+        "공정가치위험회피",
+        "현금흐름위험회피"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2020-q10",
+      "tags": [
+        "사업결합",
+        "영업권",
+        "흡수합병",
+        "현금창출단위",
+        "손상차손"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2020-q11",
+      "tags": [
+        "연결재무제표",
+        "내부거래",
+        "비지배지분",
+        "지배기업귀속순이익",
+        "단계적취득"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2020-q12",
+      "tags": [
+        "지분법",
+        "관계기업투자",
+        "영업권",
+        "손상차손",
+        "내부거래"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2019-1",
+      "tags": [
+        "재평가모형",
+        "정부보조금",
+        "당기순이익",
+        "기타포괄이익",
+        "감가상각"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2019-2",
+      "tags": [
+        "금융리스",
+        "리스부채",
+        "사용권자산",
+        "리스채권",
+        "이자비용"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2019-3",
+      "tags": [
+        "공정가치측정",
+        "금융자산",
+        "신용손상",
+        "당기손익",
+        "기타포괄손익"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2019-4",
+      "tags": [
+        "사채",
+        "시장이자율",
+        "상각후원가",
+        "처분손익",
+        "금융부채조정손익"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2019-5",
+      "tags": [
+        "자본변동",
+        "무상증자",
+        "현금배당",
+        "자기주식",
+        "주당순이익"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2019-6",
+      "tags": [
+        "전환사채",
+        "전환권가치",
+        "자본",
+        "당기순이익",
+        "상환"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2019-7",
+      "tags": [
+        "주식기준보상",
+        "현금결제형",
+        "주가차액보상권",
+        "보상비용",
+        "금융부채"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2019-8",
+      "tags": [
+        "수익인식",
+        "변동대가",
+        "계약변경",
+        "프랜차이즈",
+        "고객충성제도"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2019-9",
+      "tags": [
+        "건설계약",
+        "진행률",
+        "계약원가",
+        "계약손익",
+        "계약자산"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2019-10",
+      "tags": [
+        "사업결합",
+        "공정가치",
+        "무형자산",
+        "충당부채",
+        "재취득권리"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2019-11",
+      "tags": [
+        "연결재무제표",
+        "종속기업",
+        "영업권",
+        "비지배지분",
+        "내부거래"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2019-12",
+      "tags": [
+        "위험회피회계",
+        "파생상품",
+        "선도계약",
+        "재고자산",
+        "평가손익"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2019-13",
+      "tags": [
+        "해외사업장",
+        "기능통화",
+        "환율변동",
+        "해외사업환산차이",
+        "재평가모형"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 1}",
+      "tags": [
+        "재고자산",
+        "소매재고법",
+        "매출원가",
+        "가중평균법",
+        "저가기준선입선출법"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 2}-{(물음 1)}",
+      "tags": [
+        "차입원가",
+        "자본화",
+        "특정차입금",
+        "일반차입금",
+        "정부보조금"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 2}-{(물음 2)}",
+      "tags": [
+        "차입원가",
+        "자본화",
+        "특정차입금",
+        "일반차입금",
+        "공장건물"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 3}-{(물음 1)}",
+      "tags": [
+        "유형자산",
+        "재평가모형",
+        "투자부동산",
+        "공정가치모형",
+        "당기순이익"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 3}-{(물음 2)}",
+      "tags": [
+        "유형자산",
+        "재평가모형",
+        "투자부동산",
+        "공정가치모형",
+        "기타포괄이익"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 3}-{(물음 3)}",
+      "tags": [
+        "재평가모형",
+        "공정가치모형",
+        "평가손익",
+        "감가상각",
+        "비교"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 4}-{(물음 1)}",
+      "tags": [
+        "복구충당부채",
+        "현재가치",
+        "플랫폼",
+        "감가상각",
+        "회계처리"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 4}-{(물음 2)}",
+      "tags": [
+        "복구충당부채",
+        "복구비용",
+        "회계처리",
+        "플랫폼",
+        "해체"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 4}-{(물음 3)}",
+      "tags": [
+        "복구충당부채",
+        "제3자 변제",
+        "현재가치",
+        "회계처리",
+        "자산"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 4}-{(물음 4)}",
+      "tags": [
+        "복구충당부채",
+        "연대 의무",
+        "현재가치",
+        "회계처리",
+        "자산"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 5}-{(물음 1)}",
+      "tags": [
+        "상각후원가",
+        "금융자산",
+        "신용손상",
+        "현금흐름",
+        "회계처리"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 5}-{(물음 2)}",
+      "tags": [
+        "상각후원가",
+        "금융자산",
+        "신용손상",
+        "현금흐름 추정 변경",
+        "회계처리"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 5}-{(물음 3)}",
+      "tags": [
+        "기대신용손실",
+        "12개월 신용손실",
+        "채무불이행",
+        "가중평균",
+        "신용위험"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 5}-{(물음 4)}",
+      "tags": [
+        "기타포괄손익-공정가치",
+        "금융자산",
+        "손상",
+        "당기순이익",
+        "기타포괄이익"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 6}-{(물음 1)}",
+      "tags": [
+        "회계오류",
+        "회계변경",
+        "이익잉여금",
+        "당기순이익",
+        "오류수정"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 6}-{(물음 2)}",
+      "tags": [
+        "감가상각방법 변경",
+        "회계추정의 변경",
+        "회계정책의 변경",
+        "K-IFRS",
+        "무형자산"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 7}-{(물음 1)}",
+      "tags": [
+        "현금흐름표",
+        "간접법",
+        "영업활동",
+        "투자활동",
+        "재무활동"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 7}-{(물음 2)}",
+      "tags": [
+        "현금흐름표",
+        "직접법",
+        "영업활동",
+        "고객으로부터의 현금유입",
+        "공급자에 대한 현금유출"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 8}",
+      "tags": [
+        "재무상태표",
+        "수정전시산표",
+        "오류수정",
+        "확정급여채무",
+        "재평가모형"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 9}-{(물음 1)}",
+      "tags": [
+        "수익인식",
+        "수행의무",
+        "계약",
+        "시스템A",
+        "로봇"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 9}-{(물음 2)}",
+      "tags": [
+        "수익인식",
+        "계약부채",
+        "금융요소",
+        "선급금",
+        "회계처리"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 9}-{(물음 3)}",
+      "tags": [
+        "수익인식",
+        "계약자산",
+        "금융요소",
+        "후급조건",
+        "회계처리"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 9}-{(물음 4)}",
+      "tags": [
+        "수익인식",
+        "계약부채",
+        "계약자산",
+        "대가 지급",
+        "회계처리"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 10}-{(물음 1)}",
+      "tags": [
+        "연결재무제표",
+        "지배력",
+        "비지배지분",
+        "내부거래",
+        "영업권"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 10}-{(물음 2)}",
+      "tags": [
+        "연결재무제표",
+        "지분추가취득",
+        "비지배지분",
+        "자본잉여금",
+        "연결당기순이익"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 10}-{(물음 3)}",
+      "tags": [
+        "연결재무제표",
+        "유상증자",
+        "지분율변동",
+        "비지배지분",
+        "연결자본잉여금"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 10}-{(물음 4)}",
+      "tags": [
+        "연결재무제표",
+        "자기주식",
+        "지분율변동",
+        "비지배지분",
+        "연결자본잉여금"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 10}-{(물음 5)}",
+      "tags": [
+        "연결재무제표",
+        "비지배지분",
+        "지분변동",
+        "자본거래",
+        "차이원인"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 11}-{(물음 1)}",
+      "tags": [
+        "지분법",
+        "관계기업투자",
+        "현물출자",
+        "상업적 실질",
+        "투자주식"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 11}-{(물음 2)}",
+      "tags": [
+        "지분법",
+        "관계기업투자",
+        "순투자",
+        "당기순손실",
+        "대여금"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 12}-{(물음 1)}",
+      "tags": [
+        "위험회피회계",
+        "확정계약",
+        "외화위험",
+        "공정가치위험회피",
+        "현금흐름위험회피"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 12}-{(물음 2)}",
+      "tags": [
+        "위험회피회계",
+        "부채비율",
+        "통화선도계약",
+        "확정계약",
+        "회계정책 선택"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 12}-{(물음 3)}",
+      "tags": [
+        "위험회피회계",
+        "부채비율",
+        "통화선도",
+        "공정가치",
+        "자본변동"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 13}-{(물음 1)}",
+      "tags": [
+        "사업결합",
+        "단계적취득",
+        "재측정",
+        "공정가치",
+        "금융자산"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 13}-{(물음 2)}",
+      "tags": [
+        "사업결합",
+        "영업권",
+        "이전대가",
+        "순자산 공정가치",
+        "자본"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2018-{문제 13}-{(물음 3)}",
+      "tags": [
+        "사업결합",
+        "측정기간",
+        "영업권 조정",
+        "우발부채",
+        "고객관계"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2017-1",
+      "tags": [
+        "재고자산",
+        "재해손실",
+        "매출총이익률법",
+        "확정판매계약",
+        "재고자산평가손실"
+      ],
+      "difficulty": 2
+    },
+    {
+      "question_id": "2r-accounting-2017-2",
+      "tags": [
+        "현금흐름표",
+        "재무상태표",
+        "부채비율",
+        "영업활동현금흐름",
+        "사채"
+      ],
+      "difficulty": 3
+    },
+    {
+      "question_id": "2r-accounting-2017-3",
+      "tags": [
+        "수익인식",
+        "건설계약",
+        "정부보조금",
+        "진행기준",
+        "계약자산"
+      ],
+      "difficulty": 3
+    },
+    {
+      "question_id": "2r-accounting-2017-4",
+      "tags": [
+        "수익인식",
+        "라이선스",
+        "계약이행보증금",
+        "금융부채",
+        "해외판매권"
+      ],
+      "difficulty": 4
+    },
+    {
+      "question_id": "2r-accounting-2017-5",
+      "tags": [
+        "유형자산",
+        "투자부동산",
+        "재평가모형",
+        "공정가치모형",
+        "정부보조금",
+        "손상차손"
+      ],
+      "difficulty": 4
+    },
+    {
+      "question_id": "2r-accounting-2017-6",
+      "tags": [
+        "투자부동산",
+        "유형자산",
+        "계정대체",
+        "공정가치모형",
+        "원가모형"
+      ],
+      "difficulty": 4
+    },
+    {
+      "question_id": "2r-accounting-2017-7",
+      "tags": [
+        "자본",
+        "자본금",
+        "무상증자",
+        "주식발행초과금",
+        "이익준비금"
+      ],
+      "difficulty": 2
+    },
+    {
+      "question_id": "2r-accounting-2017-8",
+      "tags": [
+        "법인세회계",
+        "이연법인세",
+        "일시적차이",
+        "재평가모형",
+        "전환사채"
+      ],
+      "difficulty": 5
+    },
+    {
+      "question_id": "2r-accounting-2017-9",
+      "tags": [
+        "리스회계",
+        "운용리스",
+        "금융리스",
+        "판매형리스",
+        "내재이자율"
+      ],
+      "difficulty": 3
+    },
+    {
+      "question_id": "2r-accounting-2017-10",
+      "tags": [
+        "환율변동효과",
+        "기능통화",
+        "외화환산",
+        "위험회피회계",
+        "통화선도"
+      ],
+      "difficulty": 4
+    },
+    {
+      "question_id": "2r-accounting-2017-11",
+      "tags": [
+        "연결재무제표",
+        "사업결합",
+        "내부거래제거",
+        "영업권",
+        "비지배지분"
+      ],
+      "difficulty": 5
+    },
+    {
+      "question_id": "2r-accounting-2017-12",
+      "tags": [
+        "사업결합",
+        "이전대가",
+        "식별가능순자산",
+        "조건부대가",
+        "잠정금액"
+      ],
+      "difficulty": 5
+    },
+    {
+      "question_id": "2r-accounting-2017-13",
+      "tags": [
+        "지분법",
+        "관계기업투자",
+        "내부거래제거",
+        "투자차액",
+        "매각예정분류"
+      ],
+      "difficulty": 4
+    },
+    {
+      "question_id": "2r-accounting-2016-1",
+      "tags": [
+        "해외종속기업",
+        "통화선도계약",
+        "환율변동위험",
+        "순투자",
+        "연결재무제표"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-2-1",
+      "tags": [
+        "공동약정",
+        "공동기업",
+        "내부거래",
+        "토지매각",
+        "재무상태표"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-2-2",
+      "tags": [
+        "공동약정",
+        "공동기업",
+        "내부거래",
+        "손상차손",
+        "토지매각"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2016-2-3",
+      "tags": [
+        "공동약정",
+        "공동지배력",
+        "순자산권리",
+        "토지출자",
+        "공동기업투자주식"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-3-1",
+      "tags": [
+        "사업결합",
+        "연결재무상태표",
+        "영업권",
+        "비지배지분",
+        "내부거래"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-3-2",
+      "tags": [
+        "비지배지분",
+        "자기주식",
+        "자본변동",
+        "연결재무제표",
+        "종속기업"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2016-3-3",
+      "tags": [
+        "연결현금흐름표",
+        "내부거래제거",
+        "영업활동",
+        "투자활동",
+        "재무활동"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-4-1",
+      "tags": [
+        "관계기업투자주식",
+        "지분법",
+        "내부거래",
+        "당기순이익",
+        "감가상각"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-4-2",
+      "tags": [
+        "단계적취득",
+        "사업결합",
+        "영업권",
+        "비지배지분",
+        "종속기업투자주식"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2016-5-1",
+      "tags": [
+        "무형자산",
+        "영업권",
+        "손상차손",
+        "손상차손환입",
+        "회수가능액"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-5-2",
+      "tags": [
+        "신주인수권부사채",
+        "복합금융상품",
+        "유효이자율법",
+        "이자비용",
+        "자본"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-5-3",
+      "tags": [
+        "중단영업",
+        "매각예정비유동자산",
+        "손상차손",
+        "법인세효과",
+        "포괄손익계산서"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-5-4",
+      "tags": [
+        "종업원급여",
+        "확정급여제도",
+        "순확정급여부채",
+        "재측정요소",
+        "기타포괄손익"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2016-5-5",
+      "tags": [
+        "건설계약",
+        "진행기준",
+        "미성공사",
+        "진행청구액",
+        "계약자산"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2016-5-6",
+      "tags": [
+        "충당부채",
+        "우발부채",
+        "소송",
+        "주석공시",
+        "재무제표표시"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2016-6-1",
+      "tags": [
+        "유형자산",
+        "생물자산",
+        "자산분류",
+        "정의",
+        "개념체계"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2016-6-2",
+      "tags": [
+        "충당부채",
+        "현재의무",
+        "자원유출가능성",
+        "의제의무",
+        "회계처리"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-6-3",
+      "tags": [
+        "유형자산",
+        "자산통제",
+        "미래경제적효익",
+        "자산인식기준",
+        "가스계량기"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-7-1",
+      "tags": [
+        "정부보조금",
+        "자산차감법",
+        "감가상각비",
+        "정부보조금상환",
+        "장부금액"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-7-2",
+      "tags": [
+        "자산교환",
+        "상업적실질",
+        "공정가치",
+        "처분이익",
+        "취득원가"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-7-3",
+      "tags": [
+        "재평가모형",
+        "손상차손",
+        "회수가능액",
+        "감가상각비",
+        "당기비용"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2016-7-4",
+      "tags": [
+        "자산교환",
+        "상업적실질",
+        "판단기준",
+        "현금흐름",
+        "서술형"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2016-8-1",
+      "tags": [
+        "기본주당이익",
+        "가중평균유통보통주식수",
+        "자기주식",
+        "유상증자",
+        "비교표시"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-8-2",
+      "tags": [
+        "금융리스",
+        "운용리스",
+        "전대리스",
+        "투자부동산",
+        "리스료수익"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2016-9",
+      "tags": [
+        "기말재고자산",
+        "매출수정",
+        "시용판매",
+        "반품가능매출",
+        "매입운임"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-10-1",
+      "tags": [
+        "수익인식",
+        "위탁판매",
+        "적송품",
+        "판매수수료",
+        "당기순이익"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2016-10-2",
+      "tags": [
+        "수익인식",
+        "거래의 식별",
+        "현재가치",
+        "진행기준",
+        "용역매출"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-10-3",
+      "tags": [
+        "수익인식",
+        "수행의무",
+        "거래가격배분",
+        "진행기준",
+        "계약손익"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-10-4",
+      "tags": [
+        "수익인식",
+        "추정의 변경",
+        "예상원가",
+        "누적효과",
+        "계약손실"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-10-5",
+      "tags": [
+        "수익인식",
+        "비현금대가",
+        "교환거래",
+        "공정가치",
+        "매출"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2016-11-1",
+      "tags": [
+        "만기보유금융자산",
+        "금융자산손상",
+        "미래현금흐름추정",
+        "손상차손",
+        "현재가치"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-11-2",
+      "tags": [
+        "매도가능금융자산",
+        "평가손익",
+        "기타포괄손익",
+        "금융자산손상",
+        "재분류조정"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2016-12-1",
+      "tags": [
+        "전환사채",
+        "복합금융상품",
+        "상환할증금",
+        "전환권대가",
+        "유효이자율법"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2016-12-2",
+      "tags": [
+        "전환사채",
+        "복합금융상품",
+        "전환권행사",
+        "주식발행초과금",
+        "자본"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-12-3",
+      "tags": [
+        "신주인수권부사채",
+        "복합금융상품",
+        "신주인수권행사",
+        "주식발행초과금",
+        "자본"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-13-1",
+      "tags": [
+        "종업원급여",
+        "확정급여제도",
+        "예측단위적립방식",
+        "당기근무원가",
+        "확정급여채무"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2016-13-2",
+      "tags": [
+        "확정급여제도",
+        "순이자비용",
+        "당기순이익",
+        "사외적립자산",
+        "재측정요소"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2015-1",
+      "tags": [
+        "사업결합",
+        "흡수합병",
+        "영업권",
+        "리스",
+        "측정기간조정"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2015-2",
+      "tags": [
+        "연결재무제표",
+        "내부거래",
+        "미실현손익",
+        "재고자산",
+        "유형자산"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2015-3",
+      "tags": [
+        "파생상품",
+        "위험회피회계",
+        "풋옵션",
+        "매도가능금융자산",
+        "공정가치위험회피"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2015-4",
+      "tags": [
+        "해외사업장연결",
+        "외화환산",
+        "순투자위험회피",
+        "비지배지분",
+        "내부거래"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2015-5",
+      "tags": [
+        "재고자산",
+        "소매재고법",
+        "저가법",
+        "재고자산평가손실",
+        "매출원가"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2015-6",
+      "tags": [
+        "주당이익",
+        "기본주당이익",
+        "희석주당이익",
+        "주식선택권",
+        "전환사채"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2015-7",
+      "tags": [
+        "리스",
+        "판매형금융리스",
+        "제조자리스",
+        "최소리스료",
+        "내재이자율"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2015-8",
+      "tags": [
+        "복합금융상품",
+        "전환사채",
+        "신주인수권부사채",
+        "자본요소",
+        "부채요소"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2015-9",
+      "tags": [
+        "금융자산",
+        "매도가능금융자산",
+        "만기보유금융자산",
+        "재분류",
+        "손상차손"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2015-10",
+      "tags": [
+        "신종자본증권",
+        "복합금융상품",
+        "자본분류",
+        "부채분류",
+        "내재파생상품"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2015-11",
+      "tags": [
+        "수익인식",
+        "프랜차이즈",
+        "용역수익",
+        "이연수익",
+        "현재가치"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2015-12",
+      "tags": [
+        "건설계약",
+        "진행기준",
+        "누적계약원가",
+        "계약손실",
+        "회계추정의 변경"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2015-13",
+      "tags": [
+        "매각예정비유동자산",
+        "처분자산집단",
+        "손상차손",
+        "손상차손배분",
+        "회수가능액"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2014-1",
+      "tags": [
+        "전환사채",
+        "전환권가치",
+        "복합금융상품",
+        "자본",
+        "이자비용"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2014-2",
+      "tags": [
+        "차입원가자본화",
+        "특정차입금",
+        "일반차입금",
+        "정부보조금",
+        "건설중인자산"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2014-3",
+      "tags": [
+        "재고자산",
+        "재구매약정",
+        "투자부동산재분류",
+        "생물자산",
+        "재고자산감모손실"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2014-4",
+      "tags": [
+        "상환우선주",
+        "금융부채",
+        "자본",
+        "비누적적우선주",
+        "누적적우선주"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2014-5",
+      "tags": [
+        "사채",
+        "상각후원가",
+        "손상차손",
+        "조건변경",
+        "매도가능금융자산"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2014-6",
+      "tags": [
+        "운용리스",
+        "금융리스",
+        "리스분류변경",
+        "리스제공자",
+        "리스이용자"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2014-7",
+      "tags": [
+        "법인세회계",
+        "이연법인세",
+        "일시적차이",
+        "기타포괄손익",
+        "법인세비용"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2014-8",
+      "tags": [
+        "오류수정",
+        "유형자산",
+        "복구충당부채",
+        "확정급여제도",
+        "회계추정의변경"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2014-9",
+      "tags": [
+        "위험회피회계",
+        "공정가치위험회피",
+        "현금흐름위험회피",
+        "통화선도계약",
+        "확정계약"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2014-10",
+      "tags": [
+        "사업결합",
+        "흡수합병",
+        "영업권",
+        "이전대가",
+        "조건부대가"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2014-11",
+      "tags": [
+        "연결재무제표",
+        "내부거래제거",
+        "하향판매",
+        "상향판매",
+        "비지배지분"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2014-12",
+      "tags": [
+        "연결재무제표",
+        "복합지배구조",
+        "간접지배",
+        "관계기업투자",
+        "지분법"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2013-q1",
+      "tags": [
+        "재고자산",
+        "매출원가",
+        "가중평균법",
+        "계속기록법",
+        "실지재고조사법",
+        "재고자산오류"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2013-q2",
+      "tags": [
+        "유형자산",
+        "정부보조금",
+        "자산교환",
+        "재평가모형",
+        "손상차손"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2013-q3",
+      "tags": [
+        "매출채권",
+        "대손충당금",
+        "팩토링",
+        "제품보증충당부채",
+        "받을어음할인"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2013-q4",
+      "tags": [
+        "금융리스",
+        "운용리스",
+        "리스이용자",
+        "리스제공자",
+        "최소리스료"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2013-q5",
+      "tags": [
+        "매도가능금융자산",
+        "사채",
+        "만기보유금융자산",
+        "손상차손",
+        "재분류"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2013-q6",
+      "tags": [
+        "신주인수권부사채",
+        "신주인수권대가",
+        "복합금융상품",
+        "사채상환할증금",
+        "주식발행초과금"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2013-q7",
+      "tags": [
+        "관계기업투자",
+        "지분법",
+        "영업권",
+        "내부거래",
+        "투자주식처분"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2013-q8",
+      "tags": [
+        "사업결합",
+        "연결재무제표",
+        "비지배지분",
+        "영업권",
+        "내부거래",
+        "이연법인세"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2013-q9",
+      "tags": [
+        "단계적취득",
+        "사업결합",
+        "연결재무제표",
+        "비지배지분",
+        "영업권"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2013-q10",
+      "tags": [
+        "기능통화",
+        "표시통화",
+        "재무제표환산",
+        "환산차이",
+        "외환차이"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2013-q11",
+      "tags": [
+        "자본",
+        "자본잉여금",
+        "자기주식",
+        "우선주배당",
+        "신주발행"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2012-q1-1",
+      "tags": [
+        "재고자산",
+        "매입채무",
+        "매출액",
+        "매입원가",
+        "위탁판매"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2012-q1-2",
+      "tags": [
+        "재고자산",
+        "소매재고법",
+        "원가율",
+        "가중평균법",
+        "저가기준"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2012-q1-3",
+      "tags": [
+        "재고자산",
+        "재고자산평가손실",
+        "순실현가능가치",
+        "현행대체원가",
+        "원재료"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2012-q1-4",
+      "tags": [
+        "재고자산",
+        "저가법",
+        "개념체계",
+        "인식기준",
+        "서술형"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2012-q2",
+      "tags": [
+        "법인세회계",
+        "이연법인세",
+        "일시적차이",
+        "법인세비용",
+        "기타포괄이익"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2012-q3",
+      "tags": [
+        "건설계약",
+        "진행기준",
+        "계약수익",
+        "계약손실",
+        "미청구공사"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2012-q4-1",
+      "tags": [
+        "유형자산",
+        "재평가모형",
+        "손상차손",
+        "투자부동산",
+        "공정가치모형"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2012-q4-2",
+      "tags": [
+        "매각예정비유동자산",
+        "중단영업손익",
+        "사업부",
+        "순공정가치",
+        "손상차손"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2012-q5",
+      "tags": [
+        "금융자산",
+        "만기보유금융자산",
+        "매도가능금융자산",
+        "재분류",
+        "사채상환손익"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2012-q6",
+      "tags": [
+        "주당이익",
+        "기본주당이익",
+        "희석주당이익",
+        "전환사채",
+        "신주인수권부사채"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2012-q7",
+      "tags": [
+        "파생상품",
+        "이자율스왑",
+        "위험회피회계",
+        "공정가치위험회피",
+        "현금흐름위험회피"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2012-q8",
+      "tags": [
+        "현금흐름표",
+        "간접법",
+        "직접법",
+        "영업활동",
+        "비현금거래"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2012-q9",
+      "tags": [
+        "외화환산",
+        "기능통화",
+        "외화사채",
+        "환율변동손익",
+        "해외사업장"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2012-q10",
+      "tags": [
+        "사업결합",
+        "흡수합병",
+        "이전대가",
+        "영업권",
+        "손상차손"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2012-q11",
+      "tags": [
+        "연결재무제표",
+        "지배력",
+        "내부거래",
+        "비지배지분",
+        "연결조정"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2011-1",
+      "tags": [
+        "토지",
+        "취득원가",
+        "차입원가",
+        "자본화",
+        "적격자산"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2011-2",
+      "tags": [
+        "주당이익",
+        "기본주당이익",
+        "희석주당이익",
+        "전환우선주",
+        "금융자산부채상계"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2011-3",
+      "tags": [
+        "자본",
+        "자기주식",
+        "주식배당",
+        "사채",
+        "조기상환"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2011-4",
+      "tags": [
+        "사업결합",
+        "영업권",
+        "무형자산",
+        "손상차손",
+        "개발비"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2011-5",
+      "tags": [
+        "리스",
+        "판매후리스",
+        "금융리스",
+        "운용리스",
+        "내재이자율"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2011-6",
+      "tags": [
+        "정부보조금",
+        "자산교환",
+        "상업적실질",
+        "복구충당부채",
+        "유형자산"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2011-7",
+      "tags": [
+        "연결재무제표",
+        "해외종속기업",
+        "기능통화",
+        "표시통화",
+        "외환차이"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2011-8",
+      "tags": [
+        "주식기준보상",
+        "주식선택권",
+        "주식보상비용",
+        "조건변경",
+        "중도청산"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2011-9",
+      "tags": [
+        "회계변경",
+        "오류수정",
+        "투자부동산",
+        "재고자산오류",
+        "비교재무제표"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2011-10",
+      "tags": [
+        "위험회피회계",
+        "파생상품",
+        "통화선도계약",
+        "공정가치위험회피",
+        "현금흐름위험회피"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2011-11",
+      "tags": [
+        "역취득",
+        "사업결합",
+        "연결재무상태표",
+        "지배기업",
+        "비지배지분"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2010-1",
+      "tags": [
+        "확정급여제도",
+        "사외적립자산",
+        "보험수리적손익",
+        "범위접근법",
+        "퇴직급여"
+      ],
+      "difficulty": "보통"
+    },
+    {
+      "question_id": "2r-accounting-2010-2",
+      "tags": [
+        "장기건설공사",
+        "진행기준",
+        "공사수익",
+        "공사손익",
+        "미청구공사"
+      ],
+      "difficulty": "보통"
+    },
+    {
+      "question_id": "2r-accounting-2010-3",
+      "tags": [
+        "제품보증",
+        "추가보증",
+        "보증충당부채",
+        "마일리지제도",
+        "고객충성제도"
+      ],
+      "difficulty": "어려움"
+    },
+    {
+      "question_id": "2r-accounting-2010-4",
+      "tags": [
+        "주당이익",
+        "전환사채",
+        "기본주당이익",
+        "희석주당이익",
+        "자기주식"
+      ],
+      "difficulty": "어려움"
+    },
+    {
+      "question_id": "2r-accounting-2010-5",
+      "tags": [
+        "법인세회계",
+        "이연법인세",
+        "세무기준액",
+        "일시적차이",
+        "재평가모형"
+      ],
+      "difficulty": "어려움"
+    },
+    {
+      "question_id": "2r-accounting-2010-6",
+      "tags": [
+        "금융자산",
+        "상각후원가",
+        "손상차손",
+        "당기손익인식금융자산",
+        "제거"
+      ],
+      "difficulty": "보통"
+    },
+    {
+      "question_id": "2r-accounting-2010-7",
+      "tags": [
+        "유형자산",
+        "원가모형",
+        "재평가모형",
+        "손상차손",
+        "투자부동산"
+      ],
+      "difficulty": "보통"
+    },
+    {
+      "question_id": "2r-accounting-2010-8",
+      "tags": [
+        "현금흐름표",
+        "직접법",
+        "영업활동",
+        "투자활동",
+        "재무활동"
+      ],
+      "difficulty": "어려움"
+    },
+    {
+      "question_id": "2r-accounting-2010-9",
+      "tags": [
+        "사업결합",
+        "영업권",
+        "염가매수차익",
+        "조건부대가",
+        "잠정금액"
+      ],
+      "difficulty": "어려움"
+    },
+    {
+      "question_id": "2r-accounting-2010-10",
+      "tags": [
+        "외화환산",
+        "기능통화",
+        "외화거래",
+        "재평가모형",
+        "환율변동효과"
+      ],
+      "difficulty": "보통"
+    },
+    {
+      "question_id": "2r-accounting-2010-11",
+      "tags": [
+        "연결재무제표",
+        "내부거래제거",
+        "비지배지분",
+        "영업권",
+        "연결회계"
+      ],
+      "difficulty": "최상"
+    },
+    {
+      "question_id": "2r-accounting-2009-1",
+      "tags": [
+        "토지",
+        "취득원가",
+        "자본화",
+        "금융비용",
+        "감가상각"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": "2r-accounting-2009-2",
+      "tags": [
+        "매출채권",
+        "대손충당금",
+        "팩토링",
+        "매각거래",
+        "받을어음 할인"
+      ],
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": "2r-accounting-2009-3",
+      "tags": [
+        "재고자산",
+        "평균법",
+        "실지재고조사법",
+        "계속기록법",
+        "재고감모손실"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": "2r-accounting-2009-4",
+      "tags": [
+        "수익인식",
+        "용역수익",
+        "진행기준",
+        "손실인식",
+        "현재가치"
+      ],
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": "2r-accounting-2009-5",
+      "tags": [
+        "법인세회계",
+        "이연법인세",
+        "일시적차이",
+        "세율변경",
+        "자본항목"
+      ],
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": "2r-accounting-2009-6",
+      "tags": [
+        "사채",
+        "연속상환사채",
+        "사채할인발행차금",
+        "매도가능증권",
+        "분류변경"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": "2r-accounting-2009-7",
+      "tags": [
+        "자본변동",
+        "신주인수권부사채",
+        "유상증자",
+        "기본주당이익",
+        "희석주당이익"
+      ],
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": "2r-accounting-2009-8",
+      "tags": [
+        "오류수정",
+        "판매후리스",
+        "손상차손",
+        "외화환산",
+        "위험회피회계"
+      ],
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": "2r-accounting-2009-9",
+      "tags": [
+        "연결재무제표",
+        "지분법",
+        "내부거래",
+        "미실현이익",
+        "소수주주지분"
+      ],
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": "2r-accounting-2008-【문제 1】",
+      "tags": [
+        "회계변경",
+        "오류수정",
+        "감가상각",
+        "연수합계법",
+        "정액법",
+        "팩토링"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2008-【문제 2】",
+      "tags": [
+        "건설계약",
+        "진행기준",
+        "공사원가",
+        "공사이익",
+        "공사진행률"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "2r-accounting-2008-【문제 3】",
+      "tags": [
+        "정부보조금",
+        "유형자산",
+        "개발비",
+        "특허권",
+        "손상차손"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2008-【문제 4】",
+      "tags": [
+        "현금흐름표",
+        "간접법",
+        "매도가능증권",
+        "이연법인세",
+        "법인세비용"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2008-【문제 5】",
+      "tags": [
+        "연결재무제표",
+        "지분법",
+        "영업권",
+        "소수주주지분",
+        "내부거래"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2008-【문제 6】",
+      "tags": [
+        "연결",
+        "내부거래",
+        "재고자산평가손실",
+        "유형자산처분손익",
+        "사채상환손익"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2008-【문제 7】",
+      "tags": [
+        "환율변동",
+        "통화선도",
+        "위험회피회계",
+        "외화환산손익",
+        "확정계약"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2008-【문제 8】",
+      "tags": [
+        "금융리스",
+        "리스료",
+        "보증잔존가치",
+        "내재이자율",
+        "감가상각비"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2008-【문제 9】",
+      "tags": [
+        "자본변동",
+        "전환사채",
+        "주식배당",
+        "주식선택권",
+        "주당이익"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2007-1",
+      "tags": [
+        "재고자산",
+        "저가법",
+        "재고자산평가손실",
+        "재고자산감모손실",
+        "매출가격환원법"
+      ],
+      "difficulty": "하"
+    },
+    {
+      "question_id": "1r-accounting-2007-2",
+      "tags": [
+        "계속사업손익",
+        "중단사업손익",
+        "회계변경",
+        "오류수정",
+        "손상차손"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2007-3",
+      "tags": [
+        "신주인수권부사채",
+        "복합금융상품",
+        "신주인수권대가",
+        "상환할증금",
+        "유효이자율법"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2007-4",
+      "tags": [
+        "주식기준보상",
+        "복합금융상품",
+        "현금결제형",
+        "주식결제형",
+        "가상주식"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2007-5",
+      "tags": [
+        "사채",
+        "매도가능증권",
+        "사채상환손익",
+        "만기보유증권",
+        "단기매매증권"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2007-6",
+      "tags": [
+        "충당부채",
+        "구조조정충당부채",
+        "퇴직급여",
+        "재무제표일후사건",
+        "우발부채"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2007-7",
+      "tags": [
+        "법인세회계",
+        "이연법인세",
+        "일시적차이",
+        "법인세비용",
+        "자본금과적립금조정명세서"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2007-8",
+      "tags": [
+        "현금흐름표",
+        "간접법",
+        "영업활동",
+        "투자활동",
+        "재무활동"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2007-9",
+      "tags": [
+        "연결재무제표",
+        "지분법",
+        "영업권",
+        "소수주주지분",
+        "투자차액"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "1r-accounting-2007-10",
+      "tags": [
+        "연결재무제표",
+        "내부거래",
+        "미실현손익",
+        "상향판매",
+        "하향판매"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "1r-accounting-2007-11",
+      "tags": [
+        "파생상품",
+        "위험회피회계",
+        "공정가치위험회피",
+        "현금흐름위험회피",
+        "통화선도"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2006-q1",
+      "tags": [
+        "재고자산",
+        "매출가격환원법",
+        "선입선출법",
+        "후입선출법",
+        "회계변경"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2006-q2",
+      "tags": [
+        "리스",
+        "금융리스",
+        "운용리스",
+        "내재이자율",
+        "전대리스"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2006-q3",
+      "tags": [
+        "충당부채",
+        "우발부채",
+        "마일리지",
+        "대수선",
+        "이행보증"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2006-q4",
+      "tags": [
+        "채권채무조정",
+        "대손충당금",
+        "현재가치",
+        "출자전환",
+        "채무조정이익"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2006-q5",
+      "tags": [
+        "유가증권",
+        "단기매매증권",
+        "매도가능증권",
+        "만기보유증권",
+        "분류변경"
+      ],
+      "difficulty": "중"
+    },
+    {
+      "question_id": "2r-accounting-2006-q6",
+      "tags": [
+        "현금흐름표",
+        "영업활동",
+        "투자활동",
+        "재무활동",
+        "간접법"
+      ],
+      "difficulty": "상"
+    },
+    {
+      "question_id": "2r-accounting-2006-q7",
+      "tags": [
+        "지분법",
+        "연결회계",
+        "내부거래",
+        "영업권",
+        "외부주주지분"
+      ],
+      "difficulty": "최상"
+    },
+    {
+      "question_id": "2r-accounting-2006-q8",
+      "tags": [
+        "파생상품",
+        "위험회피회계",
+        "통화선도계약",
+        "확정계약",
+        "공정가치위험회피"
+      ],
+      "difficulty": "상"
     }
   ]
 }
